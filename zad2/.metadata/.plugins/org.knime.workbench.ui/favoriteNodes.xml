@@ -2,17 +2,27 @@
 <favoritenodes>
 <personals/>
 <frequents>
-<favorite frequency="2" nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
-<favorite frequency="1" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
-<favorite frequency="2" nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
-<favorite frequency="2" nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="4" nodeid="org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeFactory2"/>
+<favorite frequency="3" nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
+<favorite frequency="4" nodeid="org.knime.base.node.mine.decisiontree2.predictor2.DecTreePredictorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.viz.table.TableNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
+<favorite frequency="4" nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
 </frequents>
 <lastused>
+<favorite nodeid="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
+<favorite nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
+<favorite nodeid="org.knime.base.node.mine.decisiontree2.predictor2.DecTreePredictorNodeFactory"/>
+<favorite nodeid="org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeFactory2"/>
+<favorite nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
+<favorite nodeid="org.knime.base.node.viz.table.TableNodeFactory"/>
 <favorite nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
 <favorite nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
-<favorite nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
-<favorite nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
 <favorite nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
 </lastused>
 </favoritenodes>

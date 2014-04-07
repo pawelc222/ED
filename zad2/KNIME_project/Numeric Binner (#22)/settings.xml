@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
+<entry key="node-name" type="xstring" value="Numeric Binner"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings"/>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="HGVR3">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVR3_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGVR4">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVR4_is_appended" type="xstring" isnull="true" value=""/>
+<config key="LGV">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="LGV_is_appended" type="xstring" isnull="true" value=""/>
+<config key="2WMV">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="2WMV_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGVR2">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVR2_is_appended" type="xstring" isnull="true" value=""/>
+<config key="Car">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="Car_is_appended" type="xstring" isnull="true" value=""/>
+<config key="AllMV">
+<config key="do 10 tys._0">
+<entry key="bin_name" type="xstring" value="do 10 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="10000.0"/>
+</config>
+<config key="10 - 30 tys._1">
+<entry key="bin_name" type="xstring" value="10 - 30 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="10000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="30000.0"/>
+</config>
+<config key="30 - 50 tys._2">
+<entry key="bin_name" type="xstring" value="30 - 50 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="30000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="50000.0"/>
+</config>
+<config key="50 - 70 tys._3">
+<entry key="bin_name" type="xstring" value="50 - 70 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="50000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="70000.0"/>
+</config>
+<config key="pow 70 tys._4">
+<entry key="bin_name" type="xstring" value="pow 70 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="70000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="AllMV_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGVA6">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVA6_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGVA5">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVA5_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGVA3">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGVA3_is_appended" type="xstring" isnull="true" value=""/>
+<config key="HGV">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="HGV_is_appended" type="xstring" isnull="true" value=""/>
+<config key="Bus">
+<config key="Do 1 tys._0">
+<entry key="bin_name" type="xstring" value="Do 1 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1000.0"/>
+</config>
+<config key="1 - 2,5 tys._1">
+<entry key="bin_name" type="xstring" value="1 - 2,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="2500.0"/>
+</config>
+<config key="2,5 - 4 tys._2">
+<entry key="bin_name" type="xstring" value="2,5 - 4 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="2500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4000.0"/>
+</config>
+<config key="4 - 5,5 tys._3">
+<entry key="bin_name" type="xstring" value="4 - 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5500.0"/>
+</config>
+<config key="pow 5,5 tys._4">
+<entry key="bin_name" type="xstring" value="pow 5,5 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5500.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="Bus_is_appended" type="xstring" isnull="true" value=""/>
+<config key="PC">
+<config key="Do 10 tys._0">
+<entry key="bin_name" type="xstring" value="Do 10 tys."/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="10000.0"/>
+</config>
+<config key="10 - 30 tys._1">
+<entry key="bin_name" type="xstring" value="10 - 30 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="10000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="30000.0"/>
+</config>
+<config key="30 - 50 tys._2">
+<entry key="bin_name" type="xstring" value="30 - 50 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="30000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="50000.0"/>
+</config>
+<config key="pow 50 tys._3">
+<entry key="bin_name" type="xstring" value="pow 50 tys."/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="50000.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="PC_is_appended" type="xstring" isnull="true" value=""/>
+<config key="binned_columns">
+<entry key="array-size" type="xint" value="13"/>
+<entry key="0" type="xstring" value="HGVR3"/>
+<entry key="1" type="xstring" value="HGVR4"/>
+<entry key="2" type="xstring" value="LGV"/>
+<entry key="3" type="xstring" value="2WMV"/>
+<entry key="4" type="xstring" value="HGVR2"/>
+<entry key="5" type="xstring" value="Car"/>
+<entry key="6" type="xstring" value="AllMV"/>
+<entry key="7" type="xstring" value="HGVA6"/>
+<entry key="8" type="xstring" value="HGVA5"/>
+<entry key="9" type="xstring" value="HGVA3"/>
+<entry key="10" type="xstring" value="HGV"/>
+<entry key="11" type="xstring" value="Bus"/>
+<entry key="12" type="xstring" value="PC"/>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="Numeric Binner"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 70742, Cols: 24"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="a80a596b-ce26-4f76-892d-42161726d5b7"/>
+</config>
+</config>

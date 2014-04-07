@@ -17,6 +17,16 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="compute_median" type="xboolean" value="false"/>
+<config key="num_nominal-values_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="num_nominal-values" type="xint" value="20"/>
+<config key="num_nominal-values_output_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="num_nominal-values_output" type="xint" value="1000"/>
 <config key="filter_nominal_columns_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -34,16 +44,6 @@
 </config>
 <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
 </config>
-<config key="num_nominal-values_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="num_nominal-values" type="xint" value="20"/>
-<config key="num_nominal-values_output_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="num_nominal-values_output" type="xint" value="1000"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -62,12 +62,12 @@
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 87, Cols: 8"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 74, Cols: 8"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="6270c37d-6962-4ea8-8cff-5f0c24b57148"/>
+<entry key="file_store_id" type="xstring" value="630f1900-2695-4ab1-9647-3eb5708db2b6"/>
 </config>
 </config>
