@@ -1,0 +1,2258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="naivebayesDataModel">
+<entry key="ClassColumnName" type="xstring" value="ONS GOR Name"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<config key="SkippedAttributes">
+<entry key="SkippedAttributesCounter" type="xint" value="4"/>
+<config key="SkippedAttributeData_0">
+<entry key="attributeName" type="xstring" value="A-Junction"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" value="Too many values"/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="20"/>
+<entry key="0" type="xstring" value="M4 jn38"/>
+<entry key="1" type="xstring" value="A485"/>
+<entry key="2" type="xstring" value="A478"/>
+<entry key="3" type="xstring" value="A487"/>
+<entry key="4" type="xstring" value="A4232 / A4050"/>
+<entry key="5" type="xstring" value="LA Boundary"/>
+<entry key="6" type="xstring" value="A3111"/>
+<entry key="7" type="xstring" value="A539"/>
+<entry key="8" type="xstring" value="47"/>
+<entry key="9" type="xstring" value="28"/>
+<entry key="10" type="xstring" value="LA boundary"/>
+<entry key="11" type="xstring" value="A4219"/>
+<entry key="12" type="xstring" value="A547 Llanddulas"/>
+<entry key="13" type="xstring" value="A449"/>
+<entry key="14" type="xstring" value="B4389 Bridge St"/>
+<entry key="15" type="xstring" value="A525E"/>
+<entry key="16" type="xstring" value="A3112"/>
+<entry key="17" type="xstring" value="Pierhead, Hugh Town"/>
+<entry key="18" type="xstring" value="A550"/>
+<entry key="19" type="xstring" value="A4080"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="noOfRows" type="xint" value="21"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xstring" value="M4 jn38"/>
+<entry key="1" type="xstring" value="A485"/>
+<entry key="2" type="xstring" value="A478"/>
+<entry key="3" type="xstring" value="A487"/>
+<entry key="4" type="xstring" value="A4232 / A4050"/>
+<entry key="5" type="xstring" value="LA Boundary"/>
+<entry key="6" type="xstring" value="A539"/>
+<entry key="7" type="xstring" value="47"/>
+<entry key="8" type="xstring" value="28"/>
+<entry key="9" type="xstring" value="LA boundary"/>
+<entry key="10" type="xstring" value="A4219"/>
+<entry key="11" type="xstring" value="A547 Llanddulas"/>
+<entry key="12" type="xstring" value="A449"/>
+<entry key="13" type="xstring" value="B4389 Bridge St"/>
+<entry key="14" type="xstring" value="A525E"/>
+<entry key="15" type="xstring" value="A550"/>
+<entry key="16" type="xstring" value="A4080"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="5"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="1"/>
+<entry key="10" type="xint" value="1"/>
+<entry key="11" type="xint" value="1"/>
+<entry key="12" type="xint" value="1"/>
+<entry key="13" type="xint" value="1"/>
+<entry key="14" type="xint" value="1"/>
+<entry key="15" type="xint" value="1"/>
+<entry key="16" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="A3111"/>
+<entry key="1" type="xstring" value="A3112"/>
+<entry key="2" type="xstring" value="Pierhead, Hugh Town"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="3"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+</config>
+</config>
+</config>
+</config>
+<config key="SkippedAttributeData_1">
+<entry key="attributeName" type="xstring" value="B-Junction"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" value="Too many values"/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="20"/>
+<entry key="0" type="xstring" value="A5104"/>
+<entry key="1" type="xstring" value="B4130"/>
+<entry key="2" type="xstring" value="A547"/>
+<entry key="3" type="xstring" value="LA Boundary"/>
+<entry key="4" type="xstring" value="A3110"/>
+<entry key="5" type="xstring" value="46"/>
+<entry key="6" type="xstring" value="A548"/>
+<entry key="7" type="xstring" value="Pentre Rd, Abergavenny"/>
+<entry key="8" type="xstring" value="27"/>
+<entry key="9" type="xstring" value="37"/>
+<entry key="10" type="xstring" value="A4067"/>
+<entry key="11" type="xstring" value="A5114"/>
+<entry key="12" type="xstring" value="B4233"/>
+<entry key="13" type="xstring" value="A4086"/>
+<entry key="14" type="xstring" value="A4161"/>
+<entry key="15" type="xstring" value="A4087"/>
+<entry key="16" type="xstring" value="B4331"/>
+<entry key="17" type="xstring" value="A490"/>
+<entry key="18" type="xstring" value="A4222 Gibbet's Hill"/>
+<entry key="19" type="xstring" value="A3112"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="noOfRows" type="xint" value="21"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="18"/>
+<entry key="0" type="xstring" value="A5104"/>
+<entry key="1" type="xstring" value="B4130"/>
+<entry key="2" type="xstring" value="A547"/>
+<entry key="3" type="xstring" value="LA Boundary"/>
+<entry key="4" type="xstring" value="46"/>
+<entry key="5" type="xstring" value="A548"/>
+<entry key="6" type="xstring" value="Pentre Rd, Abergavenny"/>
+<entry key="7" type="xstring" value="27"/>
+<entry key="8" type="xstring" value="37"/>
+<entry key="9" type="xstring" value="A4067"/>
+<entry key="10" type="xstring" value="A5114"/>
+<entry key="11" type="xstring" value="B4233"/>
+<entry key="12" type="xstring" value="A4086"/>
+<entry key="13" type="xstring" value="A4161"/>
+<entry key="14" type="xstring" value="A4087"/>
+<entry key="15" type="xstring" value="B4331"/>
+<entry key="16" type="xstring" value="A490"/>
+<entry key="17" type="xstring" value="A4222 Gibbet's Hill"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="18"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="4"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="1"/>
+<entry key="10" type="xint" value="1"/>
+<entry key="11" type="xint" value="1"/>
+<entry key="12" type="xint" value="1"/>
+<entry key="13" type="xint" value="1"/>
+<entry key="14" type="xint" value="1"/>
+<entry key="15" type="xint" value="1"/>
+<entry key="16" type="xint" value="1"/>
+<entry key="17" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="A3110"/>
+<entry key="1" type="xstring" value="A3112"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="3"/>
+</config>
+</config>
+</config>
+</config>
+<config key="SkippedAttributeData_2">
+<entry key="attributeName" type="xstring" value="ONS LA Name"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" value="Too many values"/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="20"/>
+<entry key="0" type="xstring" value="Bridgend"/>
+<entry key="1" type="xstring" value="Ceredigion"/>
+<entry key="2" type="xstring" value="The Vale of Glamorgan"/>
+<entry key="3" type="xstring" value="Monmouthshire"/>
+<entry key="4" type="xstring" value="Blaenau Gwent"/>
+<entry key="5" type="xstring" value="Isle of Anglesey"/>
+<entry key="6" type="xstring" value="Pembrokeshire"/>
+<entry key="7" type="xstring" value="Denbighshire"/>
+<entry key="8" type="xstring" value="Isles of Scilly"/>
+<entry key="9" type="xstring" value="Cardiff"/>
+<entry key="10" type="xstring" value="Powys"/>
+<entry key="11" type="xstring" value="Rhondda, Cynon, Taff"/>
+<entry key="12" type="xstring" value="Carmarthenshire"/>
+<entry key="13" type="xstring" value="Gwynedd"/>
+<entry key="14" type="xstring" value="Newport"/>
+<entry key="15" type="xstring" value="Neath Port Talbot"/>
+<entry key="16" type="xstring" value="Swansea"/>
+<entry key="17" type="xstring" value="Conwy"/>
+<entry key="18" type="xstring" value="Merthyr Tydfil"/>
+<entry key="19" type="xstring" value="Flintshire"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="noOfRows" type="xint" value="49"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="19"/>
+<entry key="0" type="xstring" value="Bridgend"/>
+<entry key="1" type="xstring" value="Ceredigion"/>
+<entry key="2" type="xstring" value="The Vale of Glamorgan"/>
+<entry key="3" type="xstring" value="Monmouthshire"/>
+<entry key="4" type="xstring" value="Blaenau Gwent"/>
+<entry key="5" type="xstring" value="Isle of Anglesey"/>
+<entry key="6" type="xstring" value="Pembrokeshire"/>
+<entry key="7" type="xstring" value="Denbighshire"/>
+<entry key="8" type="xstring" value="Cardiff"/>
+<entry key="9" type="xstring" value="Powys"/>
+<entry key="10" type="xstring" value="Rhondda, Cynon, Taff"/>
+<entry key="11" type="xstring" value="Carmarthenshire"/>
+<entry key="12" type="xstring" value="Gwynedd"/>
+<entry key="13" type="xstring" value="Newport"/>
+<entry key="14" type="xstring" value="Neath Port Talbot"/>
+<entry key="15" type="xstring" value="Swansea"/>
+<entry key="16" type="xstring" value="Conwy"/>
+<entry key="17" type="xstring" value="Merthyr Tydfil"/>
+<entry key="18" type="xstring" value="Flintshire"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="19"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="4"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="2"/>
+<entry key="7" type="xint" value="2"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="10"/>
+<entry key="10" type="xint" value="2"/>
+<entry key="11" type="xint" value="3"/>
+<entry key="12" type="xint" value="7"/>
+<entry key="13" type="xint" value="2"/>
+<entry key="14" type="xint" value="1"/>
+<entry key="15" type="xint" value="1"/>
+<entry key="16" type="xint" value="4"/>
+<entry key="17" type="xint" value="1"/>
+<entry key="18" type="xint" value="3"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Isles of Scilly"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xint" value="5"/>
+</config>
+</config>
+</config>
+</config>
+<config key="SkippedAttributeData_3">
+<entry key="attributeName" type="xstring" value="Road"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" value="Too many values"/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="20"/>
+<entry key="0" type="xstring" value="A467"/>
+<entry key="1" type="xstring" value="A40"/>
+<entry key="2" type="xstring" value="A487"/>
+<entry key="3" type="xstring" value="A489"/>
+<entry key="4" type="xstring" value="A3111"/>
+<entry key="5" type="xstring" value="A477"/>
+<entry key="6" type="xstring" value="A5"/>
+<entry key="7" type="xstring" value="A3110"/>
+<entry key="8" type="xstring" value="A465"/>
+<entry key="9" type="xstring" value="A466"/>
+<entry key="10" type="xstring" value="A4051"/>
+<entry key="11" type="xstring" value="M4"/>
+<entry key="12" type="xstring" value="A55"/>
+<entry key="13" type="xstring" value="A48"/>
+<entry key="14" type="xstring" value="A472"/>
+<entry key="15" type="xstring" value="A470"/>
+<entry key="16" type="xstring" value="A458"/>
+<entry key="17" type="xstring" value="A3112"/>
+<entry key="18" type="xstring" value="A494"/>
+<entry key="19" type="xstring" value="A483"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="noOfRows" type="xint" value="50"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xstring" value="A467"/>
+<entry key="1" type="xstring" value="A40"/>
+<entry key="2" type="xstring" value="A487"/>
+<entry key="3" type="xstring" value="A489"/>
+<entry key="4" type="xstring" value="A477"/>
+<entry key="5" type="xstring" value="A5"/>
+<entry key="6" type="xstring" value="A465"/>
+<entry key="7" type="xstring" value="A466"/>
+<entry key="8" type="xstring" value="A4051"/>
+<entry key="9" type="xstring" value="M4"/>
+<entry key="10" type="xstring" value="A55"/>
+<entry key="11" type="xstring" value="A48"/>
+<entry key="12" type="xstring" value="A472"/>
+<entry key="13" type="xstring" value="A470"/>
+<entry key="14" type="xstring" value="A458"/>
+<entry key="15" type="xstring" value="A494"/>
+<entry key="16" type="xstring" value="A483"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="17"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="6"/>
+<entry key="2" type="xint" value="5"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="4"/>
+<entry key="6" type="xint" value="2"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="3"/>
+<entry key="10" type="xint" value="4"/>
+<entry key="11" type="xint" value="3"/>
+<entry key="12" type="xint" value="1"/>
+<entry key="13" type="xint" value="8"/>
+<entry key="14" type="xint" value="1"/>
+<entry key="15" type="xint" value="3"/>
+<entry key="16" type="xint" value="5"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="A3111"/>
+<entry key="1" type="xstring" value="A3110"/>
+<entry key="2" type="xstring" value="A3112"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
+</config>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelSection">
+<entry key="RecordCounter" type="xint" value="70742"/>
+<entry key="AttributeModelCounter" type="xint" value="20"/>
+<config key="AttributeModelData_0">
+<entry key="attributeName" type="xstring" value="LenNet"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="42733.89999999988"/>
+<entry key="squareSum" type="xdouble" value="538700.3576000005"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="7250.9999999999745"/>
+<entry key="squareSum" type="xdouble" value="53473.01999999997"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="16099.119999999955"/>
+<entry key="squareSum" type="xdouble" value="126558.0328"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="23468.309999999925"/>
+<entry key="squareSum" type="xdouble" value="137216.2869000005"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="15716.579999999965"/>
+<entry key="squareSum" type="xdouble" value="98324.46399999999"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="16644.599999999988"/>
+<entry key="squareSum" type="xdouble" value="116587.1600000005"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="17228.560000000005"/>
+<entry key="squareSum" type="xdouble" value="139207.75480000052"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="14726.980000000032"/>
+<entry key="squareSum" type="xdouble" value="110026.2012"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="18531.619999999977"/>
+<entry key="squareSum" type="xdouble" value="116983.77879999927"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="7126.150000000025"/>
+<entry key="squareSum" type="xdouble" value="13212.431500000292"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="21025.98000000005"/>
+<entry key="squareSum" type="xdouble" value="170054.48679999984"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_1">
+<entry key="attributeName" type="xstring" value="S Ref E"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="2.564940576E9"/>
+<entry key="squareSum" type="xdouble" value="7.81991063509124E14"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="1.294799324E9"/>
+<entry key="squareSum" type="xdouble" value="5.57042701851834E14"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="2.401842041E9"/>
+<entry key="squareSum" type="xdouble" value="1.119199359600691E15"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="4.765479454E9"/>
+<entry key="squareSum" type="xdouble" value="2.453460190086116E15"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="2.530460548E9"/>
+<entry key="squareSum" type="xdouble" value="1.005155065612152E15"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="3.178268422E9"/>
+<entry key="squareSum" type="xdouble" value="1.783141296198164E15"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="1.300933915E9"/>
+<entry key="squareSum" type="xdouble" value="3.83453256578965E14"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="2.391817274E9"/>
+<entry key="squareSum" type="xdouble" value="1.070281175195088E15"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="3.263628342E9"/>
+<entry key="squareSum" type="xdouble" value="1.183603219630898E15"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="3.891985958E9"/>
+<entry key="squareSum" type="xdouble" value="2.063293615413842E15"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="2.071038548E9"/>
+<entry key="squareSum" type="xdouble" value="7.31091260466168E14"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_2">
+<entry key="attributeName" type="xstring" value="HGVR3"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="644822.0099999993"/>
+<entry key="squareSum" type="xdouble" value="1.6319787963390034E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="191396.88000000035"/>
+<entry key="squareSum" type="xdouble" value="5.6123805642399825E7"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="512430.85000000114"/>
+<entry key="squareSum" type="xdouble" value="3.037115251006995E8"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="736241.5300000022"/>
+<entry key="squareSum" type="xdouble" value="3.951538065283032E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="564972.9400000029"/>
+<entry key="squareSum" type="xdouble" value="3.674974897306001E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="511455.4700000021"/>
+<entry key="squareSum" type="xdouble" value="2.3597781525849876E8"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="339902.3200000011"/>
+<entry key="squareSum" type="xdouble" value="1.1877153526220036E8"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="498191.3000000015"/>
+<entry key="squareSum" type="xdouble" value="2.421592763063989E8"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="653323.3200000009"/>
+<entry key="squareSum" type="xdouble" value="4.316350427870006E8"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="245751.76999999973"/>
+<entry key="squareSum" type="xdouble" value="6.434145946329955E7"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="627278.060000001"/>
+<entry key="squareSum" type="xdouble" value="3.4877068547859895E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_3">
+<entry key="attributeName" type="xstring" value="HGVR4"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="439443.4300000017"/>
+<entry key="squareSum" type="xdouble" value="1.0407040632150047E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="198835.5500000004"/>
+<entry key="squareSum" type="xdouble" value="7.575965387210026E7"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="517690.4100000022"/>
+<entry key="squareSum" type="xdouble" value="3.0281905286869764E8"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="798988.6399999999"/>
+<entry key="squareSum" type="xdouble" value="4.1659498700939924E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="485497.8500000001"/>
+<entry key="squareSum" type="xdouble" value="2.3356160390689898E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="582982.0499999995"/>
+<entry key="squareSum" type="xdouble" value="2.975437279112994E8"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="268254.6300000002"/>
+<entry key="squareSum" type="xdouble" value="8.649972984350006E7"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="450384.7900000009"/>
+<entry key="squareSum" type="xdouble" value="1.9609667723069948E8"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="643894.8300000036"/>
+<entry key="squareSum" type="xdouble" value="3.7362308176049894E8"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="284164.6400000005"/>
+<entry key="squareSum" type="xdouble" value="1.029696612776007E8"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="405161.84000000055"/>
+<entry key="squareSum" type="xdouble" value="1.750170672998004E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_4">
+<entry key="attributeName" type="xstring" value="LGV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1.1617317609999994E7"/>
+<entry key="squareSum" type="xdouble" value="4.6558881021979485E10"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="4498187.130000004"/>
+<entry key="squareSum" type="xdouble" value="2.236873162571566E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1.1581390910000024E7"/>
+<entry key="squareSum" type="xdouble" value="1.3058350385669006E11"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="2.3191908950000025E7"/>
+<entry key="squareSum" type="xdouble" value="3.0840723814019354E11"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1.2802084909999963E7"/>
+<entry key="squareSum" type="xdouble" value="1.6395836017058347E11"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.4784773679999959E7"/>
+<entry key="squareSum" type="xdouble" value="1.5896177295573834E11"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="7070883.450000003"/>
+<entry key="squareSum" type="xdouble" value="3.824491606035355E10"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="1.1481928340000028E7"/>
+<entry key="squareSum" type="xdouble" value="9.736578633065306E10"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1.4759113150000012E7"/>
+<entry key="squareSum" type="xdouble" value="1.3202696128514177E11"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="9244184.519999996"/>
+<entry key="squareSum" type="xdouble" value="5.0599898232440186E10"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1.2113720289999994E7"/>
+<entry key="squareSum" type="xdouble" value="1.019726040301285E11"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_5">
+<entry key="attributeName" type="xstring" value="HGVR2"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="3103298.2599999965"/>
+<entry key="squareSum" type="xdouble" value="5.028476403911984E9"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="1118525.749999998"/>
+<entry key="squareSum" type="xdouble" value="2.0235769175037029E9"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="3572480.980000009"/>
+<entry key="squareSum" type="xdouble" value="1.900974860676859E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="5830785.170000006"/>
+<entry key="squareSum" type="xdouble" value="2.72800307229075E10"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="3660969.890000017"/>
+<entry key="squareSum" type="xdouble" value="2.1926449342060722E10"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="4206844.639999999"/>
+<entry key="squareSum" type="xdouble" value="1.742916450811926E10"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="1714299.3500000003"/>
+<entry key="squareSum" type="xdouble" value="2.999723174885297E9"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="3053412.6499999966"/>
+<entry key="squareSum" type="xdouble" value="1.0494642290263689E10"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="4284028.369999979"/>
+<entry key="squareSum" type="xdouble" value="1.8863732779632187E10"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="2005729.8900000046"/>
+<entry key="squareSum" type="xdouble" value="3.6984797826935124E9"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="3189142.349999992"/>
+<entry key="squareSum" type="xdouble" value="1.0953258562033539E10"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_6">
+<entry key="attributeName" type="xstring" value="2WMV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="683136.7000000011"/>
+<entry key="squareSum" type="xdouble" value="1.9020450584719962E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="273280.9899999997"/>
+<entry key="squareSum" type="xdouble" value="7.178375527870014E7"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="734308.2900000007"/>
+<entry key="squareSum" type="xdouble" value="3.0391867252710027E8"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="2027614.379999994"/>
+<entry key="squareSum" type="xdouble" value="1.6922530916898093E9"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="718258.2999999998"/>
+<entry key="squareSum" type="xdouble" value="2.38269089958399E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1170088.0800000029"/>
+<entry key="squareSum" type="xdouble" value="7.932995300087974E8"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="451271.6100000007"/>
+<entry key="squareSum" type="xdouble" value="1.151441430940998E8"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="684172.6899999996"/>
+<entry key="squareSum" type="xdouble" value="2.6151384187070024E8"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="900522.4500000039"/>
+<entry key="squareSum" type="xdouble" value="3.0171259057409906E8"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="1921267.1900000058"/>
+<entry key="squareSum" type="xdouble" value="1.6368257664749045E9"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1148241.4799999949"/>
+<entry key="squareSum" type="xdouble" value="5.771480054506004E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_7">
+<entry key="attributeName" type="xstring" value="Car"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="8.504458159999983E7"/>
+<entry key="squareSum" type="xdouble" value="2.518065267519201E12"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="3.4542498869999975E7"/>
+<entry key="squareSum" type="xdouble" value="1.1819377311969382E12"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="7.930275553999987E7"/>
+<entry key="squareSum" type="xdouble" value="5.598725410606842E12"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1.824812757499985E8"/>
+<entry key="squareSum" type="xdouble" value="1.8860803489878938E13"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="9.076444086000009E7"/>
+<entry key="squareSum" type="xdouble" value="7.333762417435356E12"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.0302094156999998E8"/>
+<entry key="squareSum" type="xdouble" value="7.236638317360786E12"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="5.242347744000001E7"/>
+<entry key="squareSum" type="xdouble" value="2.009972706676828E12"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="7.858703559999982E7"/>
+<entry key="squareSum" type="xdouble" value="3.7979903917479487E12"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1.1379720785999973E8"/>
+<entry key="squareSum" type="xdouble" value="7.014253661565495E12"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="6.5540297990000084E7"/>
+<entry key="squareSum" type="xdouble" value="2.314946311577987E12"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="9.291395677000044E7"/>
+<entry key="squareSum" type="xdouble" value="6.482530393001643E12"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_8">
+<entry key="attributeName" type="xstring" value="Year"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1.7539145E7"/>
+<entry key="squareSum" type="xdouble" value="3.5104610669E10"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="6030514.0"/>
+<entry key="squareSum" type="xdouble" value="1.2070066532E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1.0357758E7"/>
+<entry key="squareSum" type="xdouble" value="2.0731050098E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1.8734041E7"/>
+<entry key="squareSum" type="xdouble" value="3.7496196763E10"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1.2797575E7"/>
+<entry key="squareSum" type="xdouble" value="2.5614322319E10"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.1406549E7"/>
+<entry key="squareSum" type="xdouble" value="2.2830215949E10"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="8974740.0"/>
+<entry key="squareSum" type="xdouble" value="1.7962975724E10"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="1.0752067E7"/>
+<entry key="squareSum" type="xdouble" value="2.1520286827E10"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1.8077572E7"/>
+<entry key="squareSum" type="xdouble" value="3.6182319688E10"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="1.469902E7"/>
+<entry key="squareSum" type="xdouble" value="2.942010571E10"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1.2221161E7"/>
+<entry key="squareSum" type="xdouble" value="2.4460665377E10"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_9">
+<entry key="attributeName" type="xstring" value="AllMV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1.0681606366999973E8"/>
+<entry key="squareSum" type="xdouble" value="4.0552379387237544E12"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="4.254688701999995E7"/>
+<entry key="squareSum" type="xdouble" value="1.884045526893064E12"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1.0331802065999931E8"/>
+<entry key="squareSum" type="xdouble" value="1.0487799738200912E13"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="2.2387709368000072E8"/>
+<entry key="squareSum" type="xdouble" value="2.9498397518764254E13"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1.1634327490000032E8"/>
+<entry key="squareSum" type="xdouble" value="1.3605222250470203E13"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.317244526300004E8"/>
+<entry key="squareSum" type="xdouble" value="1.2606618726680287E13"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="6.457092087000014E7"/>
+<entry key="squareSum" type="xdouble" value="3.150055142226034E12"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="1.0207803897999977E8"/>
+<entry key="squareSum" type="xdouble" value="7.079801645590842E12"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1.429096872499998E8"/>
+<entry key="squareSum" type="xdouble" value="1.2303159574382432E13"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="8.173204969999973E7"/>
+<entry key="squareSum" type="xdouble" value="3.726907209623237E12"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1.1534314384999956E8"/>
+<entry key="squareSum" type="xdouble" value="1.0454908251012893E13"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_10">
+<entry key="attributeName" type="xstring" value="HGVA6"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1548378.9700000025"/>
+<entry key="squareSum" type="xdouble" value="3.6589674829427056E9"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="502972.79000000015"/>
+<entry key="squareSum" type="xdouble" value="9.046073148758996E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="2305505.5299999965"/>
+<entry key="squareSum" type="xdouble" value="1.4149580119258125E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="2045655.0800000008"/>
+<entry key="squareSum" type="xdouble" value="7.538410082280152E9"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="2040227.8899999969"/>
+<entry key="squareSum" type="xdouble" value="1.5312737327493328E10"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="2360287.0600000047"/>
+<entry key="squareSum" type="xdouble" value="1.1376362048779013E10"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="580726.5200000006"/>
+<entry key="squareSum" type="xdouble" value="9.130595180490018E8"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="2379703.4899999984"/>
+<entry key="squareSum" type="xdouble" value="1.2939681517459307E10"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="2219269.2499999856"/>
+<entry key="squareSum" type="xdouble" value="1.378058449291978E10"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="353092.90000000154"/>
+<entry key="squareSum" type="xdouble" value="1.497303290955399E9"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1390884.4899999977"/>
+<entry key="squareSum" type="xdouble" value="5.735644658545504E9"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_11">
+<entry key="attributeName" type="xstring" value="HGVA5"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1680908.0500000073"/>
+<entry key="squareSum" type="xdouble" value="4.340845634620095E9"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="566204.0100000008"/>
+<entry key="squareSum" type="xdouble" value="1.2209358957273002E9"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="3050210.619999996"/>
+<entry key="squareSum" type="xdouble" value="2.9251730083911427E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="3904087.5499999807"/>
+<entry key="squareSum" type="xdouble" value="3.55847927308915E10"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="3199882.340000004"/>
+<entry key="squareSum" type="xdouble" value="4.600362859234042E10"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="3170051.2500000084"/>
+<entry key="squareSum" type="xdouble" value="2.2975217148589703E10"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="847381.4100000017"/>
+<entry key="squareSum" type="xdouble" value="2.210698461753304E9"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="3079021.8299999917"/>
+<entry key="squareSum" type="xdouble" value="2.0654523000985966E10"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="3241988.5699999877"/>
+<entry key="squareSum" type="xdouble" value="3.131247667371259E10"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="498321.5000000009"/>
+<entry key="squareSum" type="xdouble" value="3.490859044781362E9"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="1889301.1499999962"/>
+<entry key="squareSum" type="xdouble" value="1.2199148907871153E10"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_12">
+<entry key="attributeName" type="xstring" value="HGVA3"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="743143.6000000035"/>
+<entry key="squareSum" type="xdouble" value="7.292785500088013E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="226508.09999999983"/>
+<entry key="squareSum" type="xdouble" value="1.6996646593059987E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1136963.0599999975"/>
+<entry key="squareSum" type="xdouble" value="3.388477587394194E9"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1281261.4999999988"/>
+<entry key="squareSum" type="xdouble" value="2.4620760657641993E9"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1211499.5100000016"/>
+<entry key="squareSum" type="xdouble" value="4.696707868384682E9"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1058244.610000002"/>
+<entry key="squareSum" type="xdouble" value="1.8070333944561105E9"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="315894.1400000004"/>
+<entry key="squareSum" type="xdouble" value="2.3475924338319904E8"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="992158.820000004"/>
+<entry key="squareSum" type="xdouble" value="1.843111468705003E9"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1136003.1699999974"/>
+<entry key="squareSum" type="xdouble" value="2.906381415449486E9"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="210000.7999999998"/>
+<entry key="squareSum" type="xdouble" value="2.273148815325996E8"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="797108.7999999997"/>
+<entry key="squareSum" type="xdouble" value="1.5944332410616057E9"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_13">
+<entry key="attributeName" type="xstring" value="HGV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="8160165.45999998"/>
+<entry key="squareSum" type="xdouble" value="5.299055094501201E10"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="2804505.729999998"/>
+<entry key="squareSum" type="xdouble" value="1.8130566674062107E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1.1095388419999989E7"/>
+<entry key="squareSum" type="xdouble" value="2.6138490584304013E11"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1.4597215750000022E7"/>
+<entry key="squareSum" type="xdouble" value="2.5720577769982352E11"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1.1163183229999999E7"/>
+<entry key="squareSum" type="xdouble" value="3.348951552591479E11"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.1889984219999965E7"/>
+<entry key="squareSum" type="xdouble" value="2.0407996363248947E11"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="4066548.2000000007"/>
+<entry key="squareSum" type="xdouble" value="2.517818629659975E10"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="1.0452984689999979E7"/>
+<entry key="squareSum" type="xdouble" value="1.7674886990538007E11"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1.2178694640000008E7"/>
+<entry key="squareSum" type="xdouble" value="2.631327547129341E11"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="3597218.6899999985"/>
+<entry key="squareSum" type="xdouble" value="3.1514377069146667E10"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="8299001.470000003"/>
+<entry key="squareSum" type="xdouble" value="1.2439969402394675E11"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_14">
+<entry key="attributeName" type="xstring" value="RCategory"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PU"/>
+<entry key="3" type="xstring" value="PR"/>
+<entry key="4" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="519"/>
+<entry key="1" type="xint" value="1612"/>
+<entry key="2" type="xint" value="2208"/>
+<entry key="3" type="xint" value="4176"/>
+<entry key="4" type="xint" value="248"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="84"/>
+<entry key="1" type="xint" value="312"/>
+<entry key="2" type="xint" value="24"/>
+<entry key="3" type="xint" value="1453"/>
+<entry key="4" type="xint" value="1000"/>
+<entry key="5" type="xint" value="140"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PU"/>
+<entry key="3" type="xstring" value="PR"/>
+<entry key="4" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="156"/>
+<entry key="1" type="xint" value="559"/>
+<entry key="2" type="xint" value="2208"/>
+<entry key="3" type="xint" value="2148"/>
+<entry key="4" type="xint" value="104"/>
+</config>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="692"/>
+<entry key="1" type="xint" value="844"/>
+<entry key="2" type="xint" value="20"/>
+<entry key="3" type="xint" value="4247"/>
+<entry key="4" type="xint" value="3442"/>
+<entry key="5" type="xint" value="115"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="396"/>
+<entry key="1" type="xint" value="438"/>
+<entry key="2" type="xint" value="16"/>
+<entry key="3" type="xint" value="3263"/>
+<entry key="4" type="xint" value="2137"/>
+<entry key="5" type="xint" value="144"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PU"/>
+<entry key="3" type="xstring" value="PR"/>
+<entry key="4" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="270"/>
+<entry key="1" type="xint" value="712"/>
+<entry key="2" type="xint" value="2453"/>
+<entry key="3" type="xint" value="2188"/>
+<entry key="4" type="xint" value="76"/>
+</config>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PU"/>
+<entry key="3" type="xstring" value="PR"/>
+<entry key="4" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="168"/>
+<entry key="1" type="xint" value="1184"/>
+<entry key="2" type="xint" value="1116"/>
+<entry key="3" type="xint" value="1889"/>
+<entry key="4" type="xint" value="127"/>
+</config>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="448"/>
+<entry key="1" type="xint" value="336"/>
+<entry key="2" type="xint" value="24"/>
+<entry key="3" type="xint" value="2774"/>
+<entry key="4" type="xint" value="1738"/>
+<entry key="5" type="xint" value="52"/>
+</config>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="882"/>
+<entry key="1" type="xint" value="294"/>
+<entry key="2" type="xint" value="64"/>
+<entry key="3" type="xint" value="5421"/>
+<entry key="4" type="xint" value="2237"/>
+<entry key="5" type="xint" value="134"/>
+</config>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="PU"/>
+<entry key="2" type="xstring" value="PR"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="96"/>
+<entry key="1" type="xint" value="7080"/>
+<entry key="2" type="xint" value="168"/>
+</config>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PU"/>
+<entry key="3" type="xstring" value="PR"/>
+<entry key="4" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="252"/>
+<entry key="1" type="xint" value="600"/>
+<entry key="2" type="xint" value="2219"/>
+<entry key="3" type="xint" value="2963"/>
+<entry key="4" type="xint" value="72"/>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_15">
+<entry key="attributeName" type="xstring" value="Bus"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="1310720.3399999992"/>
+<entry key="squareSum" type="xdouble" value="6.238603447739992E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="428364.1000000007"/>
+<entry key="squareSum" type="xdouble" value="1.6520510193180022E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="604092.1700000003"/>
+<entry key="squareSum" type="xdouble" value="2.486796743870997E8"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1578923.15999999"/>
+<entry key="squareSum" type="xdouble" value="1.4097288538373997E9"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="895201.699999999"/>
+<entry key="squareSum" type="xdouble" value="5.2679815541799927E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="858570.1699999975"/>
+<entry key="squareSum" type="xdouble" value="4.2748793335169953E8"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="558665.2900000006"/>
+<entry key="squareSum" type="xdouble" value="1.7237988154409948E8"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="871827.6399999986"/>
+<entry key="squareSum" type="xdouble" value="3.867592365588008E8"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="1274000.1899999946"/>
+<entry key="squareSum" type="xdouble" value="5.508544867620951E8"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="1429428.8699999982"/>
+<entry key="squareSum" type="xdouble" value="6.88355470104299E8"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="868121.8600000023"/>
+<entry key="squareSum" type="xdouble" value="4.718967179894002E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_16">
+<entry key="attributeName" type="xstring" value="ONS GOR Name"/>
+<entry key="type" type="xstring" value="ClassModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="totalNoOfRecords" type="xint" value="70742"/>
+<entry key="maxNoOfClassValues" type="xint" value="20"/>
+<config key="classValues">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Wales"/>
+<entry key="1" type="xstring" value="North West"/>
+<entry key="2" type="xstring" value="London"/>
+<entry key="3" type="xstring" value="Scotland"/>
+<entry key="4" type="xstring" value="North East"/>
+<entry key="5" type="xstring" value="East Midlands"/>
+<entry key="6" type="xstring" value="South East"/>
+<entry key="7" type="xstring" value="West Midlands"/>
+<entry key="8" type="xstring" value="East of England"/>
+<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="10" type="xstring" value="South West"/>
+</config>
+<config key="classRecordCounter">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="4484"/>
+<entry key="1" type="xint" value="9032"/>
+<entry key="2" type="xint" value="7344"/>
+<entry key="3" type="xint" value="8763"/>
+<entry key="4" type="xint" value="3013"/>
+<entry key="5" type="xint" value="5175"/>
+<entry key="6" type="xint" value="9360"/>
+<entry key="7" type="xint" value="6394"/>
+<entry key="8" type="xint" value="5699"/>
+<entry key="9" type="xint" value="5372"/>
+<entry key="10" type="xint" value="6106"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_17">
+<entry key="attributeName" type="xstring" value="CP"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="3.96623816E8"/>
+<entry key="squareSum" type="xdouble" value="2.524155586035E13"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="1.43534742E8"/>
+<entry key="squareSum" type="xdouble" value="8.76570636514E12"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="2.54154643E8"/>
+<entry key="squareSum" type="xdouble" value="1.6369215252733E13"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="4.46223574E8"/>
+<entry key="squareSum" type="xdouble" value="2.7849652570944E13"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="2.90294715E8"/>
+<entry key="squareSum" type="xdouble" value="1.7515463550009E13"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="2.66553747E8"/>
+<entry key="squareSum" type="xdouble" value="1.6342921673295E13"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="2.16013448E8"/>
+<entry key="squareSum" type="xdouble" value="1.490846074668E13"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="2.55975513E8"/>
+<entry key="squareSum" type="xdouble" value="1.5713516205987E13"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="4.19461261E8"/>
+<entry key="squareSum" type="xdouble" value="2.5480605213783E13"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="2.93178009E8"/>
+<entry key="squareSum" type="xdouble" value="1.5504049474689E13"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="2.80296426E8"/>
+<entry key="squareSum" type="xdouble" value="1.7382778848406E13"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_18">
+<entry key="attributeName" type="xstring" value="S Ref N"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="6.289378018E9"/>
+<entry key="squareSum" type="xdouble" value="4.615898048397488E15"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="1.671116432E9"/>
+<entry key="squareSum" type="xdouble" value="9.29276338533654E14"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="1.70334495E9"/>
+<entry key="squareSum" type="xdouble" value="5.68398583126324E14"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="1.42383394E9"/>
+<entry key="squareSum" type="xdouble" value="2.27851673316378E14"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="1.878943708E9"/>
+<entry key="squareSum" type="xdouble" value="5.57993213088782E14"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="1.387188625E9"/>
+<entry key="squareSum" type="xdouble" value="3.47493454679969E14"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="1.155576905E9"/>
+<entry key="squareSum" type="xdouble" value="3.23009911449639E14"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="2.29471758E9"/>
+<entry key="squareSum" type="xdouble" value="9.838940816422E14"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="3.707164575E9"/>
+<entry key="squareSum" type="xdouble" value="1.535862071406519E15"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="1.322691728E9"/>
+<entry key="squareSum" type="xdouble" value="2.38652620792368E14"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="8.17763522E8"/>
+<entry key="squareSum" type="xdouble" value="1.2628652316336E14"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_19">
+<entry key="attributeName" type="xstring" value="PC"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="11"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Scotland"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8763"/>
+<entry key="sum" type="xdouble" value="176436.92999999982"/>
+<entry key="squareSum" type="xdouble" value="2.6322483240900014E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="North East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="3013"/>
+<entry key="sum" type="xdouble" value="73984.7700000001"/>
+<entry key="squareSum" type="xdouble" value="6783579.709899973"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="East Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5175"/>
+<entry key="sum" type="xdouble" value="187290.46000000052"/>
+<entry key="squareSum" type="xdouble" value="3.5009946111399926E7"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="South East"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9360"/>
+<entry key="sum" type="xdouble" value="412303.27000000153"/>
+<entry key="squareSum" type="xdouble" value="1.289209471133007E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="West Midlands"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6394"/>
+<entry key="sum" type="xdouble" value="166863.9100000009"/>
+<entry key="squareSum" type="xdouble" value="1.921616804510007E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="East of England"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5699"/>
+<entry key="sum" type="xdouble" value="278882.96000000037"/>
+<entry key="squareSum" type="xdouble" value="1.5329839988840076E8"/>
+</config>
+<config key="classValueData_6">
+<entry key="classValue" type="xstring" value="Wales"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4484"/>
+<entry key="sum" type="xdouble" value="80279.67999999976"/>
+<entry key="squareSum" type="xdouble" value="6567238.484999984"/>
+</config>
+<config key="classValueData_7">
+<entry key="classValue" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5372"/>
+<entry key="sum" type="xdouble" value="250472.17000000022"/>
+<entry key="squareSum" type="xdouble" value="8.504642451890002E7"/>
+</config>
+<config key="classValueData_8">
+<entry key="classValue" type="xstring" value="North West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="9032"/>
+<entry key="sum" type="xdouble" value="320909.16000000044"/>
+<entry key="squareSum" type="xdouble" value="4.301695945099989E7"/>
+</config>
+<config key="classValueData_9">
+<entry key="classValue" type="xstring" value="London"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="7344"/>
+<entry key="sum" type="xdouble" value="724244.0700000015"/>
+<entry key="squareSum" type="xdouble" value="2.701901135461001E8"/>
+</config>
+<config key="classValueData_10">
+<entry key="classValue" type="xstring" value="South West"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="6106"/>
+<entry key="sum" type="xdouble" value="222154.0200000004"/>
+<entry key="squareSum" type="xdouble" value="5.2024465662399784E7"/>
+</config>
+</config>
+</config>
+</config>
+</config>

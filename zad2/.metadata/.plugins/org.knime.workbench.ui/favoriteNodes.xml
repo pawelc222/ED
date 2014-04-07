@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favoritenodes>
+<personals/>
+<frequents>
+<favorite frequency="2" nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
+</frequents>
+<lastused>
+<favorite nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
+<favorite nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
+<favorite nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
+</lastused>
+</favoritenodes>
