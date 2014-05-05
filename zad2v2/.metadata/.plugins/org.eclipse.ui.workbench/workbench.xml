@@ -32,13 +32,13 @@
 <view id="org.knime.workbench.repository.view.RepositoryView" partName="Node Repository">
 <viewState/>
 </view>
-<view id="org.knime.workbench.helpview" partName="Node Description">
-<viewState/>
-</view>
 <view id="org.knime.workbench.explorer.view" partName="KNIME Explorer">
 <viewState>
 <content/>
 </viewState>
+</view>
+<view id="org.knime.workbench.helpview" partName="Node Description">
+<viewState/>
 </view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
@@ -79,14 +79,14 @@
 <view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
-<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@403d7b6d" orientation="512" selectedTabId="org.knime.workbench.helpview" style="1">
-<fastViews>
-<view id="org.knime.workbench.helpview" ratio="0.3"/>
-</fastViews>
-</fastViewBar>
 <fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@79ca3b13" orientation="256" selectedTabId="org.knime.workbench.explorer.view" style="1">
 <fastViews>
 <view id="org.knime.workbench.explorer.view" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@403d7b6d" orientation="512" selectedTabId="org.knime.workbench.helpview" style="1">
+<fastViews>
+<view id="org.knime.workbench.helpview" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
 <fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@4bec9adc" orientation="512" selectedTabId="org.knime.workbench.repository.view.RepositoryView" style="1">
