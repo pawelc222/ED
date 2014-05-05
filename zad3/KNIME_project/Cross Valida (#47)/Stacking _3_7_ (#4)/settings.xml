@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.ext.weka37.classifier.WekaClassifierNodeFactory"/>
+<entry key="node-name" type="xstring" value="Stacking (3.7)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME WEKA nodes (3.7)"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.weka_3.7"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings">
+<entry key="weka-class" type="xstring" value="weka.classifiers.meta.Stacking"/>
+<entry key="weka-version" type="xstring" value="3.7"/>
+</config>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="ClassColumn" type="xstring" value="AllMV"/>
+<entry key="Serialized Weka-Classifier" type="xstring" value="rO0ABXNyAB53ZWthLmNsYXNzaWZpZXJzLm1ldGEuU3RhY2tpbmdHQkGDQcalTAIABEkACm1fTnVtRm9sZHNMAAxtX0Jhc2VGb3JtYXR0ABVMd2VrYS9jb3JlL0luc3RhbmNlcztMABBtX01ldGFDbGFzc2lmaWVydAAdTHdla2EvY2xhc3NpZmllcnMvQ2xhc3NpZmllcjtMAAxtX01ldGFGb3JtYXRxAH4AAXhyAEB3ZWthLmNsYXNzaWZpZXJzLlJhbmRvbWl6YWJsZVBhcmFsbGVsTXVsdGlwbGVDbGFzc2lmaWVyc0NvbWJpbmVyctNff+zWKk8CAAFJAAZtX1NlZWR4cgA0d2VrYS5jbGFzc2lmaWVycy5QYXJhbGxlbE11bHRpcGxlQ2xhc3NpZmllcnNDb21iaW5lcgoaw03cip6iAgADSQALbV9jb21wbGV0ZWRJAAhtX2ZhaWxlZEkAE21fbnVtRXhlY3V0aW9uU2xvdHN4cgAsd2VrYS5jbGFzc2lmaWVycy5NdWx0aXBsZUNsYXNzaWZpZXJzQ29tYmluZXImh+Jlj84VJwIAAVsADW1fQ2xhc3NpZmllcnN0AB5bTHdla2EvY2xhc3NpZmllcnMvQ2xhc3NpZmllcjt4cgAjd2VrYS5jbGFzc2lmaWVycy5BYnN0cmFjdENsYXNzaWZpZXJaPoQhvSYjTQIAAVoAB21fRGVidWd4cAB1cgAeW0x3ZWthLmNsYXNzaWZpZXJzLkNsYXNzaWZpZXI7Me/W2acan8oCAAB4cAAAAANzcgAad2VrYS5jbGFzc2lmaWVycy50cmVlcy5KNDj8+nTWQhOWZAIADUYABG1fQ0ZJAAZtX1NlZWRaAA5tX2JpbmFyeVNwbGl0c1oADm1fY29sbGFwc2VUcmVlSQALbV9taW5OdW1PYmpaAAttX25vQ2xlYW51cEkACm1fbnVtRm9sZHNaABVtX3JlZHVjZWRFcnJvclBydW5pbmdaABBtX3N1YnRyZWVSYWlzaW5nWgAKbV91bnBydW5lZFoADG1fdXNlTGFwbGFjZVoAEm1fdXNlTURMY29ycmVjdGlvbkwABm1fcm9vdHQAK0x3ZWthL2NsYXNzaWZpZXJzL3RyZWVzL2o0OC9DbGFzc2lmaWVyVHJlZTt4cQB+AAcAPoAAAAAAAAEAAQAAAAIAAAAAAwABAAABcHNyACF3ZWthLmNsYXNzaWZpZXJzLmJheWVzLk5haXZlQmF5ZXNTM1cDkMZVdwIACEkADG1fTnVtQ2xhc3Nlc1oAE21fVXNlRGlzY3JldGl6YXRpb25aABRtX1VzZUtlcm5lbEVzdGltYXRvcloAGW1fZGlzcGxheU1vZGVsSW5PbGRGb3JtYXRMABNtX0NsYXNzRGlzdHJpYnV0aW9udAAbTHdla2EvZXN0aW1hdG9ycy9Fc3RpbWF0b3I7TAAGbV9EaXNjdAAuTHdla2EvZmlsdGVycy9zdXBlcnZpc2VkL2F0dHJpYnV0ZS9EaXNjcmV0aXplO1sAD21fRGlzdHJpYnV0aW9uc3QAHVtbTHdla2EvZXN0aW1hdG9ycy9Fc3RpbWF0b3I7TAALbV9JbnN0YW5jZXNxAH4AAXhxAH4ABwAAAAAAAAAAcHBwcHNyABt3ZWthLmNsYXNzaWZpZXJzLnJ1bGVzLk9uZVLP/aV4LvpCPQIAA0kAD21fbWluQnVja2V0U2l6ZUwAB21fWmVyb1JxAH4AAkwABm1fcnVsZXQAJkx3ZWthL2NsYXNzaWZpZXJzL3J1bGVzL09uZVIkT25lUlJ1bGU7eHEAfgAHAAAAAAZwcAAAAAAAAAAAAAAAAQAAAAEAAAAKcHNxAH4ACwA+gAAAAAAAAQABAAAAAgAAAAADAAEAAAFwcA=="/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="Stacking (3.7)"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClassifierModelPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClassifierModelPortObject"/>
+<entry key="port_object_summary" type="xstring" value="Stacking"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
