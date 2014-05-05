@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="18" version="2.0">
+<workbench progressCount="23" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="52" y="52">
 <fastViewData fastViewLocation="1024"/>
@@ -17,6 +17,8 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
+<part id="2"/>
 </presentation>
 </folder>
 </info>
@@ -150,6 +152,22 @@
 <editors>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.knime.workbench.editor.WorkflowEditor" uri="knime://LOCAL/KNIME_project/workflow.knime"/>
 </editors>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
+<item historyLabel="0: KNIME_project" index="0"/>
 <item active="true" historyLabel="0: KNIME_project" index="0"/>
 </navigationHistory>
 </page>

@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="statistic.xml.gz">
+<config key="spec">
+<entry key="spec_name" type="xstring" value="default"/>
+<entry key="number_columns" type="xint" value="4"/>
+<config key="column_spec_0">
+<entry key="column_name" type="xstring" value="Error in %"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.4"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.8"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_1">
+<entry key="column_name" type="xstring" value="Size of Test Set"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1500"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1500"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_2">
+<entry key="column_name" type="xstring" value="Error Count"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="36"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="57"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_3">
+<entry key="column_name" type="xstring" value="Iteration"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="9"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+</config>
+<config key="minimumCells">
+<entry key="array-size" type="xint" value="4"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.4"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1500"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="36"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="0"/>
+</config>
+</config>
+</config>
+<config key="maximumCells">
+<entry key="array-size" type="xint" value="4"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.8"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1500"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="57"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="9"/>
+</config>
+</config>
+</config>
+<config key="mean">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="3.1133333333333333"/>
+<entry key="1" type="xdouble" value="1500.0"/>
+<entry key="2" type="xdouble" value="46.70000000000002"/>
+<entry key="3" type="xdouble" value="4.499999999999999"/>
+</config>
+<config key="variance">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.08094276094276094"/>
+<entry key="1" type="xdouble" value="0.0"/>
+<entry key="2" type="xdouble" value="18.212121212121207"/>
+<entry key="3" type="xdouble" value="8.333333333333332"/>
+</config>
+<config key="median">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="NaN"/>
+<entry key="1" type="xdouble" value="NaN"/>
+<entry key="2" type="xdouble" value="NaN"/>
+<entry key="3" type="xdouble" value="NaN"/>
+</config>
+<config key="missings">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="0"/>
+<entry key="2" type="xint" value="0"/>
+<entry key="3" type="xint" value="0"/>
+</config>
+<config key="nans">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="0"/>
+<entry key="2" type="xint" value="0"/>
+<entry key="3" type="xint" value="0"/>
+</config>
+<config key="posInfs">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="0"/>
+<entry key="2" type="xint" value="0"/>
+<entry key="3" type="xint" value="0"/>
+</config>
+<config key="negInfs">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="0"/>
+<entry key="1" type="xint" value="0"/>
+<entry key="2" type="xint" value="0"/>
+<entry key="3" type="xint" value="0"/>
+</config>
+<config key="sums">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="311.3333333333333"/>
+<entry key="1" type="xdouble" value="150000.0"/>
+<entry key="2" type="xdouble" value="4670.000000000002"/>
+<entry key="3" type="xdouble" value="449.9999999999999"/>
+</config>
+<config key="skewness">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.019017222286397246"/>
+<entry key="1" type="xdouble" value="0.0"/>
+<entry key="2" type="xdouble" value="0.01901722228639856"/>
+<entry key="3" type="xdouble" value="2.4964027651554596E-16"/>
+</config>
+<config key="kurtosis">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="-0.2026658926197896"/>
+<entry key="1" type="xdouble" value="0.0"/>
+<entry key="2" type="xdouble" value="-0.20266589261978235"/>
+<entry key="3" type="xdouble" value="-1.2252472122869762"/>
+</config>
+<entry key="row_count" type="xint" value="100"/>
+<config key="Error in %">
+<config key="2.933333333333333">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.933333333333333"/>
+</config>
+</config>
+<entry key="value" type="xint" value="12"/>
+</config>
+<config key="3.1333333333333333">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.1333333333333333"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="3.2">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.2"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="3.0">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.0"/>
+</config>
+</config>
+<entry key="value" type="xint" value="9"/>
+</config>
+<config key="3.3333333333333335">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.3333333333333335"/>
+</config>
+</config>
+<entry key="value" type="xint" value="8"/>
+</config>
+<config key="3.466666666666667">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.466666666666667"/>
+</config>
+</config>
+<entry key="value" type="xint" value="7"/>
+</config>
+<config key="3.2666666666666666">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.2666666666666666"/>
+</config>
+</config>
+<entry key="value" type="xint" value="7"/>
+</config>
+<config key="2.8666666666666667">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.8666666666666667"/>
+</config>
+</config>
+<entry key="value" type="xint" value="6"/>
+</config>
+<config key="3.066666666666667">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.066666666666667"/>
+</config>
+</config>
+<entry key="value" type="xint" value="5"/>
+</config>
+<config key="2.8">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.8"/>
+</config>
+</config>
+<entry key="value" type="xint" value="4"/>
+</config>
+<config key="2.7333333333333334">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.7333333333333334"/>
+</config>
+</config>
+<entry key="value" type="xint" value="4"/>
+</config>
+<config key="2.6">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.6"/>
+</config>
+</config>
+<entry key="value" type="xint" value="3"/>
+</config>
+<config key="3.4">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.4"/>
+</config>
+</config>
+<entry key="value" type="xint" value="3"/>
+</config>
+<config key="2.6666666666666665">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.6666666666666665"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="3.533333333333333">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.533333333333333"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="3.6666666666666665">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.6666666666666665"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="3.6">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.6"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="3.8">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.8"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="2.466666666666667">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.466666666666667"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="2.4">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="2.4"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="3.7333333333333334">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="3.7333333333333334"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+</config>
+<config key="Size of Test Set">
+<config key="1500">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1500"/>
+</config>
+</config>
+<entry key="value" type="xint" value="100"/>
+</config>
+</config>
+<config key="Error Count">
+<config key="44">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="44"/>
+</config>
+</config>
+<entry key="value" type="xint" value="12"/>
+</config>
+<config key="47">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="47"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="48">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="48"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="45">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="45"/>
+</config>
+</config>
+<entry key="value" type="xint" value="9"/>
+</config>
+<config key="50">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="50"/>
+</config>
+</config>
+<entry key="value" type="xint" value="8"/>
+</config>
+<config key="52">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="52"/>
+</config>
+</config>
+<entry key="value" type="xint" value="7"/>
+</config>
+<config key="49">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="49"/>
+</config>
+</config>
+<entry key="value" type="xint" value="7"/>
+</config>
+<config key="43">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="43"/>
+</config>
+</config>
+<entry key="value" type="xint" value="6"/>
+</config>
+<config key="46">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="46"/>
+</config>
+</config>
+<entry key="value" type="xint" value="5"/>
+</config>
+<config key="42">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="42"/>
+</config>
+</config>
+<entry key="value" type="xint" value="4"/>
+</config>
+<config key="41">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="41"/>
+</config>
+</config>
+<entry key="value" type="xint" value="4"/>
+</config>
+<config key="39">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="39"/>
+</config>
+</config>
+<entry key="value" type="xint" value="3"/>
+</config>
+<config key="51">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="51"/>
+</config>
+</config>
+<entry key="value" type="xint" value="3"/>
+</config>
+<config key="40">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="40"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="53">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="53"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="55">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="55"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="54">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="54"/>
+</config>
+</config>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="57">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="57"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="37">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="37"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="36">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="36"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+<config key="56">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="56"/>
+</config>
+</config>
+<entry key="value" type="xint" value="1"/>
+</config>
+</config>
+<config key="Iteration">
+<config key="0">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="0"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="1">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="2">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="2"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="3">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="3"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="4">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="4"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="5">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="5"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="6">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="6"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="7">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="7"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="8">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="8"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+<config key="9">
+<config key="key">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="9"/>
+</config>
+</config>
+<entry key="value" type="xint" value="10"/>
+</config>
+</config>
+</config>
