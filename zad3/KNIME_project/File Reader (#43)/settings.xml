@@ -67,7 +67,7 @@
 <entry key="ignEmtpyTokensAtEOR" type="xboolean" value="false"/>
 <entry key="acceptShortLines" type="xboolean" value="false"/>
 <entry key="uniquifyRowID" type="xboolean" value="false"/>
-<entry key="MaxNumOfRows" type="xlong" value="15000"/>
+<entry key="MaxNumOfRows" type="xlong" value="10000"/>
 <entry key="ColNumDetermLine" type="xint" value="2"/>
 <entry key="CharsetName" type="xstring" isnull="true" value=""/>
 <entry key="delimsAtEOLuserVal" type="xboolean" value="false"/>
@@ -354,12 +354,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 15000, Cols: 24"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 10000, Cols: 24"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="60bbd491-22b2-4a6d-a31d-c2fa82dd3729"/>
+<entry key="file_store_id" type="xstring" value="6e45f52b-553c-4c0d-aec1-a4e138640125"/>
 </config>
 </config>

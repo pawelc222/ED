@@ -2,43 +2,50 @@
 <favoritenodes>
 <personals/>
 <frequents>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.PART"/>
 <favorite frequency="1" nodeid="org.knime.base.node.viz.plotter.scatter.ScatterPlotterNodeFactory"/>
 <favorite frequency="4" nodeid="org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeFactory2"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.stringmanipulation.StringManipulationNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.meta.Bagging"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.autobinner.AutoBinnerLearnNodeFactory"/>
 <favorite frequency="3" nodeid="org.knime.base.node.mine.bayes.naivebayes.predictor2.NaiveBayesPredictorNodeFactory"/>
 <favorite frequency="2" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory"/>
 <favorite frequency="4" nodeid="org.knime.base.node.viz.table.TableNodeFactory"/>
 <favorite frequency="2" nodeid="org.knime.base.node.preproc.missingval.MissingValueHandling3NodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.sample.SamplingNodeFactory"/>
 <favorite frequency="4" nodeid="org.knime.base.node.viz.crosstable.CrosstabNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.colconvert.stringtonumber.StringToNumberNodeFactory"/>
-<favorite frequency="2" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.Prism"/>
-<favorite frequency="5" nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
+<favorite frequency="4" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.Prism"/>
+<favorite frequency="10" nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.meta.Stacking"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.autobinner.apply.AutoBinnerApplyNodeFactory"/>
 <favorite frequency="3" nodeid="org.knime.base.node.bayes.mine.naivebayes.learner.NaiveBayesLearnerNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.stringreplacer.StringReplacerNodeFactory"/>
-<favorite frequency="4" nodeid="org.knime.ext.weka37.predictor.WekaPredictorNodeFactory"/>
-<favorite frequency="1" nodeid="org.knime.base.node.preproc.filter.row.RowFilterNodeFactory"/>
+<favorite frequency="9" nodeid="org.knime.ext.weka37.predictor.WekaPredictorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.trees.RandomForest"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.meta.AdaBoostM1"/>
+<favorite frequency="2" nodeid="org.knime.base.node.preproc.filter.row.RowFilterNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.domain.DomainNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
 <favorite frequency="3" nodeid="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.pmml.stringtonumber.StringToNumberNodeFactory"/>
 <favorite frequency="1" nodeid="org.knime.base.node.preproc.binnerdictionary.BinByDictionaryNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.colconvert.numbertostring.NumberToStringNodeFactory"/>
 <favorite frequency="4" nodeid="org.knime.base.node.mine.decisiontree2.predictor2.DecTreePredictorNodeFactory"/>
 <favorite frequency="2" nodeid="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
 <favorite frequency="2" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.trees.J48"/>
 </frequents>
 <lastused>
-<favorite nodeid="org.knime.base.node.viz.table.TableNodeFactory"/>
-<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.trees.J48"/>
-<favorite nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
-<favorite nodeid="org.knime.base.node.preproc.missingval.MissingValueHandling3NodeFactory"/>
-<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.Prism"/>
+<favorite nodeid="org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory"/>
 <favorite nodeid="org.knime.ext.weka37.predictor.WekaPredictorNodeFactory"/>
-<favorite nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.PART"/>
+<favorite nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.rules.Prism"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.trees.RandomForest"/>
 <favorite nodeid="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
-<favorite nodeid="org.knime.base.node.preproc.filter.row.RowFilterNodeFactory"/>
 <favorite nodeid="org.knime.base.node.preproc.sample.SamplingNodeFactory"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.meta.Bagging"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.meta.AdaBoostM1"/>
 </lastused>
 </favoritenodes>
