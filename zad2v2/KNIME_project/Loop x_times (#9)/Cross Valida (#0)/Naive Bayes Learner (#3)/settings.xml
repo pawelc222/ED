@@ -29,14 +29,23 @@
 <entry key="maxNoOfNomVals" type="xint" value="20"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="The following attributes are skipped: B-Junction/Too many values, A-Junction/Too many values, Road/Too many values, ONS LA Name/Too many values"/>
+</config>
 <entry key="name" type="xstring" value="Naive Bayes Learner"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+<entry key="port_spec_class" type="xstring" value="org.knime.base.node.mine.bayes.naivebayes.port.NaiveBayesPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.base.node.mine.bayes.naivebayes.port.NaiveBayesPortObject"/>
+<entry key="port_object_summary" type="xstring" value="NaiveBayes Model. Class column: AllMV Number of attributes: 19 The following attributes are skipped: B-Junction/Too many values, A-Junction/Too many values, Road/Too many values, ONS LA Name/Too many values"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">

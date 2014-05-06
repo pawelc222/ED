@@ -10,7 +10,7 @@
 <entry key="lastEdited-when" type="xstring" isnull="true" value=""/>
 </config>
 <entry key="customDescription" type="xstring" value="Executes the contained workflow multiple times. Aggregation method and termination criteration must be set using the loop start and end node contained in the workflow."/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_0">

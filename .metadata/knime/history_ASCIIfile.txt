@@ -1,0 +1,3 @@
+file:/D:/Dokumenty/GitHub/ED/2003Traffic-major-roads(kilometres).csv
+file:/C:/Users/aich/Documents/GitHub/ED/2003Traffic-major-roads(kilometres).csv
+file:/D:/Dokumenty/studia/sem6/ed/roads/traffic-major-roads-km/Traffic-major-roads(kilometres)/2003Traffic-major-roads(kilometres).csv

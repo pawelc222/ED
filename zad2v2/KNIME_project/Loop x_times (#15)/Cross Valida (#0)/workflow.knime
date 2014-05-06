@@ -10,7 +10,7 @@
 <entry key="lastEdited-when" type="xstring" isnull="true" value=""/>
 </config>
 <entry key="customDescription" type="xstring" value="Provides a skeleton of nodes necessary for cross validation"/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_1">
@@ -53,7 +53,7 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="297"/>
 <entry key="1" type="xint" value="83"/>
-<entry key="2" type="xint" value="71"/>
+<entry key="2" type="xint" value="72"/>
 <entry key="3" type="xint" value="94"/>
 </config>
 </config>
@@ -68,7 +68,7 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="305"/>
 <entry key="1" type="xint" value="244"/>
-<entry key="2" type="xint" value="75"/>
+<entry key="2" type="xint" value="76"/>
 <entry key="3" type="xint" value="94"/>
 </config>
 </config>

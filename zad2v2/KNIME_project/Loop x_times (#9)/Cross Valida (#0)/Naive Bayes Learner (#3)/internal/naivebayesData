@@ -12,23 +12,23 @@
 <entry key="invalidCause" type="xstring" value="Too many values"/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="2"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="20"/>
-<entry key="0" type="xstring" value="A5104"/>
-<entry key="1" type="xstring" value="B4130"/>
-<entry key="2" type="xstring" value="A547"/>
+<entry key="0" type="xstring" value="A547/B5381"/>
+<entry key="1" type="xstring" value="A5104"/>
+<entry key="2" type="xstring" value="B4130"/>
 <entry key="3" type="xstring" value="LA Boundary"/>
 <entry key="4" type="xstring" value="A3110"/>
-<entry key="5" type="xstring" value="A548"/>
-<entry key="6" type="xstring" value="Pentre Rd, Abergavenny"/>
-<entry key="7" type="xstring" value="27"/>
+<entry key="5" type="xstring" value="46"/>
+<entry key="6" type="xstring" value="A548"/>
+<entry key="7" type="xstring" value="Pentre Rd, Abergavenny"/>
 <entry key="8" type="xstring" value="37"/>
 <entry key="9" type="xstring" value="A4067"/>
 <entry key="10" type="xstring" value="A5114"/>
 <entry key="11" type="xstring" value="B4233"/>
 <entry key="12" type="xstring" value="A4086"/>
-<entry key="13" type="xstring" value="A4161"/>
+<entry key="13" type="xstring" value="A4042/A40"/>
 <entry key="14" type="xstring" value="A4087"/>
 <entry key="15" type="xstring" value="Swansea Rd"/>
 <entry key="16" type="xstring" value="B4331"/>
@@ -37,65 +37,113 @@
 <entry key="19" type="xstring" value="A3112"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="23"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="5"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="18"/>
-<entry key="0" type="xstring" value="A5104"/>
-<entry key="1" type="xstring" value="B4130"/>
-<entry key="2" type="xstring" value="LA Boundary"/>
-<entry key="3" type="xstring" value="A3110"/>
-<entry key="4" type="xstring" value="A548"/>
-<entry key="5" type="xstring" value="Pentre Rd, Abergavenny"/>
-<entry key="6" type="xstring" value="27"/>
-<entry key="7" type="xstring" value="37"/>
-<entry key="8" type="xstring" value="A4067"/>
-<entry key="9" type="xstring" value="A5114"/>
-<entry key="10" type="xstring" value="A4086"/>
-<entry key="11" type="xstring" value="A4161"/>
-<entry key="12" type="xstring" value="A4087"/>
-<entry key="13" type="xstring" value="Swansea Rd"/>
-<entry key="14" type="xstring" value="B4331"/>
-<entry key="15" type="xstring" value="A490"/>
-<entry key="16" type="xstring" value="A4222 Gibbet's Hill"/>
-<entry key="17" type="xstring" value="A3112"/>
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="A3110"/>
+<entry key="1" type="xstring" value="A3112"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="18"/>
-<entry key="0" type="xint" value="1"/>
-<entry key="1" type="xint" value="1"/>
-<entry key="2" type="xint" value="3"/>
-<entry key="3" type="xint" value="2"/>
-<entry key="4" type="xint" value="1"/>
-<entry key="5" type="xint" value="1"/>
-<entry key="6" type="xint" value="1"/>
-<entry key="7" type="xint" value="1"/>
-<entry key="8" type="xint" value="1"/>
-<entry key="9" type="xint" value="1"/>
-<entry key="10" type="xint" value="1"/>
-<entry key="11" type="xint" value="1"/>
-<entry key="12" type="xint" value="1"/>
-<entry key="13" type="xint" value="1"/>
-<entry key="14" type="xint" value="1"/>
-<entry key="15" type="xint" value="1"/>
-<entry key="16" type="xint" value="1"/>
-<entry key="17" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="3"/>
 </config>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="2"/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="1"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="A547"/>
-<entry key="1" type="xstring" value="B4233"/>
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="A5104"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="2"/>
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="7"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="LA Boundary"/>
+<entry key="1" type="xstring" value="46"/>
+<entry key="2" type="xstring" value="A548"/>
+<entry key="3" type="xstring" value="37"/>
+<entry key="4" type="xstring" value="A5114"/>
+<entry key="5" type="xstring" value="B4233"/>
+<entry key="6" type="xstring" value="A4222 Gibbet's Hill"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="7"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="A547/B5381"/>
+<entry key="1" type="xstring" value="LA Boundary"/>
+<entry key="2" type="xstring" value="Pentre Rd, Abergavenny"/>
+<entry key="3" type="xstring" value="A4067"/>
+<entry key="4" type="xstring" value="B4331"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="4"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="LA Boundary"/>
+<entry key="1" type="xstring" value="A4086"/>
+<entry key="2" type="xstring" value="A4042/A40"/>
+<entry key="3" type="xstring" value="Swansea Rd"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="3"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="B4130"/>
+<entry key="1" type="xstring" value="A4087"/>
+<entry key="2" type="xstring" value="A490"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
 </config>
 </config>
 </config>
@@ -108,92 +156,142 @@
 <entry key="invalidCause" type="xstring" value="Too many values"/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="2"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="20"/>
 <entry key="0" type="xstring" value="M4 jn38"/>
 <entry key="1" type="xstring" value="A485"/>
-<entry key="2" type="xstring" value="A478"/>
-<entry key="3" type="xstring" value="A487"/>
-<entry key="4" type="xstring" value="A4232 / A4050"/>
-<entry key="5" type="xstring" value="LA Boundary"/>
-<entry key="6" type="xstring" value="A3111"/>
-<entry key="7" type="xstring" value="A4143  Merthyr   Road"/>
-<entry key="8" type="xstring" value="A539"/>
-<entry key="9" type="xstring" value="28"/>
-<entry key="10" type="xstring" value="LA boundary"/>
-<entry key="11" type="xstring" value="A4219"/>
-<entry key="12" type="xstring" value="A547 Llanddulas"/>
-<entry key="13" type="xstring" value="A449"/>
-<entry key="14" type="xstring" value="B4389 Bridge St"/>
-<entry key="15" type="xstring" value="B42776 Merthyr Road"/>
+<entry key="2" type="xstring" value="A487"/>
+<entry key="3" type="xstring" value="LA Boundary"/>
+<entry key="4" type="xstring" value="A3111"/>
+<entry key="5" type="xstring" value="A4143  Merthyr   Road"/>
+<entry key="6" type="xstring" value="A539"/>
+<entry key="7" type="xstring" value="47"/>
+<entry key="8" type="xstring" value="B5279"/>
+<entry key="9" type="xstring" value="LA boundary"/>
+<entry key="10" type="xstring" value="A4219"/>
+<entry key="11" type="xstring" value="A547 Llanddulas"/>
+<entry key="12" type="xstring" value="A449"/>
+<entry key="13" type="xstring" value="B4389 Bridge St"/>
+<entry key="14" type="xstring" value="B42776 Merthyr Road"/>
+<entry key="15" type="xstring" value="A525E"/>
 <entry key="16" type="xstring" value="A3112"/>
 <entry key="17" type="xstring" value="Pierhead, Hugh Town"/>
 <entry key="18" type="xstring" value="A550"/>
 <entry key="19" type="xstring" value="A4080"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="24"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="6"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="19"/>
-<entry key="0" type="xstring" value="M4 jn38"/>
-<entry key="1" type="xstring" value="A485"/>
-<entry key="2" type="xstring" value="A478"/>
-<entry key="3" type="xstring" value="A487"/>
-<entry key="4" type="xstring" value="A4232 / A4050"/>
-<entry key="5" type="xstring" value="LA Boundary"/>
-<entry key="6" type="xstring" value="A3111"/>
-<entry key="7" type="xstring" value="A4143  Merthyr   Road"/>
-<entry key="8" type="xstring" value="A539"/>
-<entry key="9" type="xstring" value="28"/>
-<entry key="10" type="xstring" value="LA boundary"/>
-<entry key="11" type="xstring" value="A4219"/>
-<entry key="12" type="xstring" value="A547 Llanddulas"/>
-<entry key="13" type="xstring" value="B4389 Bridge St"/>
-<entry key="14" type="xstring" value="B42776 Merthyr Road"/>
-<entry key="15" type="xstring" value="A3112"/>
-<entry key="16" type="xstring" value="Pierhead, Hugh Town"/>
-<entry key="17" type="xstring" value="A550"/>
-<entry key="18" type="xstring" value="A4080"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="A487"/>
+<entry key="1" type="xstring" value="A3111"/>
+<entry key="2" type="xstring" value="A3112"/>
+<entry key="3" type="xstring" value="Pierhead, Hugh Town"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="19"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="3"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="1"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="A550"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="7"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="LA Boundary"/>
+<entry key="1" type="xstring" value="47"/>
+<entry key="2" type="xstring" value="LA boundary"/>
+<entry key="3" type="xstring" value="A547 Llanddulas"/>
+<entry key="4" type="xstring" value="A449"/>
+<entry key="5" type="xstring" value="A525E"/>
+<entry key="6" type="xstring" value="A4080"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="7"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="1"/>
 <entry key="2" type="xint" value="1"/>
 <entry key="3" type="xint" value="1"/>
 <entry key="4" type="xint" value="1"/>
-<entry key="5" type="xint" value="4"/>
-<entry key="6" type="xint" value="3"/>
-<entry key="7" type="xint" value="1"/>
-<entry key="8" type="xint" value="1"/>
-<entry key="9" type="xint" value="1"/>
-<entry key="10" type="xint" value="1"/>
-<entry key="11" type="xint" value="1"/>
-<entry key="12" type="xint" value="1"/>
-<entry key="13" type="xint" value="1"/>
-<entry key="14" type="xint" value="1"/>
-<entry key="15" type="xint" value="1"/>
-<entry key="16" type="xint" value="1"/>
-<entry key="17" type="xint" value="1"/>
-<entry key="18" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="1"/>
 </config>
 </config>
-<config key="classValueData_1">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="2"/>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="5"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="LA Boundary"/>
-<entry key="1" type="xstring" value="A449"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="M4 jn38"/>
+<entry key="1" type="xstring" value="LA Boundary"/>
+<entry key="2" type="xstring" value="B5279"/>
+<entry key="3" type="xstring" value="A4219"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="2"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="5"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="A487"/>
+<entry key="1" type="xstring" value="LA Boundary"/>
+<entry key="2" type="xstring" value="A4143  Merthyr   Road"/>
+<entry key="3" type="xstring" value="A539"/>
+<entry key="4" type="xstring" value="B42776 Merthyr Road"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="3"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="A485"/>
+<entry key="1" type="xstring" value="A487"/>
+<entry key="2" type="xstring" value="B4389 Bridge St"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
 </config>
 </config>
 </config>
@@ -206,23 +304,23 @@
 <entry key="invalidCause" type="xstring" value="Too many values"/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="2"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="20"/>
 <entry key="0" type="xstring" value="A467"/>
 <entry key="1" type="xstring" value="A40"/>
 <entry key="2" type="xstring" value="A487"/>
-<entry key="3" type="xstring" value="A489"/>
-<entry key="4" type="xstring" value="A3111"/>
-<entry key="5" type="xstring" value="A477"/>
-<entry key="6" type="xstring" value="A5"/>
-<entry key="7" type="xstring" value="A3110"/>
-<entry key="8" type="xstring" value="A465"/>
-<entry key="9" type="xstring" value="A466"/>
-<entry key="10" type="xstring" value="A4051"/>
-<entry key="11" type="xstring" value="M4"/>
-<entry key="12" type="xstring" value="A55"/>
-<entry key="13" type="xstring" value="A48"/>
+<entry key="3" type="xstring" value="A3111"/>
+<entry key="4" type="xstring" value="A477"/>
+<entry key="5" type="xstring" value="A5"/>
+<entry key="6" type="xstring" value="A3110"/>
+<entry key="7" type="xstring" value="A465"/>
+<entry key="8" type="xstring" value="A466"/>
+<entry key="9" type="xstring" value="A4051"/>
+<entry key="10" type="xstring" value="M4"/>
+<entry key="11" type="xstring" value="A55"/>
+<entry key="12" type="xstring" value="A48"/>
+<entry key="13" type="xstring" value="A473"/>
 <entry key="14" type="xstring" value="A472"/>
 <entry key="15" type="xstring" value="A470"/>
 <entry key="16" type="xstring" value="A458"/>
@@ -231,69 +329,143 @@
 <entry key="19" type="xstring" value="A483"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="46"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="8"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="20"/>
-<entry key="0" type="xstring" value="A467"/>
-<entry key="1" type="xstring" value="A40"/>
-<entry key="2" type="xstring" value="A487"/>
-<entry key="3" type="xstring" value="A489"/>
-<entry key="4" type="xstring" value="A3111"/>
-<entry key="5" type="xstring" value="A477"/>
-<entry key="6" type="xstring" value="A5"/>
-<entry key="7" type="xstring" value="A3110"/>
-<entry key="8" type="xstring" value="A465"/>
-<entry key="9" type="xstring" value="A466"/>
-<entry key="10" type="xstring" value="A4051"/>
-<entry key="11" type="xstring" value="M4"/>
-<entry key="12" type="xstring" value="A55"/>
-<entry key="13" type="xstring" value="A48"/>
-<entry key="14" type="xstring" value="A472"/>
-<entry key="15" type="xstring" value="A470"/>
-<entry key="16" type="xstring" value="A458"/>
-<entry key="17" type="xstring" value="A3112"/>
-<entry key="18" type="xstring" value="A494"/>
-<entry key="19" type="xstring" value="A483"/>
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="A3111"/>
+<entry key="1" type="xstring" value="A3110"/>
+<entry key="2" type="xstring" value="A470"/>
+<entry key="3" type="xstring" value="A3112"/>
+<entry key="4" type="xstring" value="A483"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="20"/>
-<entry key="0" type="xint" value="1"/>
-<entry key="1" type="xint" value="5"/>
-<entry key="2" type="xint" value="5"/>
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
 <entry key="3" type="xint" value="1"/>
 <entry key="4" type="xint" value="2"/>
-<entry key="5" type="xint" value="1"/>
-<entry key="6" type="xint" value="4"/>
-<entry key="7" type="xint" value="2"/>
-<entry key="8" type="xint" value="2"/>
-<entry key="9" type="xint" value="1"/>
-<entry key="10" type="xint" value="1"/>
-<entry key="11" type="xint" value="2"/>
-<entry key="12" type="xint" value="2"/>
-<entry key="13" type="xint" value="3"/>
-<entry key="14" type="xint" value="1"/>
-<entry key="15" type="xint" value="5"/>
-<entry key="16" type="xint" value="1"/>
-<entry key="17" type="xint" value="1"/>
-<entry key="18" type="xint" value="3"/>
-<entry key="19" type="xint" value="3"/>
 </config>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="2"/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="4"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="A40"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="A477"/>
 <entry key="1" type="xstring" value="A55"/>
+<entry key="2" type="xstring" value="A470"/>
+<entry key="3" type="xstring" value="A483"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="2"/>
+<entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="11"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xstring" value="A40"/>
+<entry key="1" type="xstring" value="A487"/>
+<entry key="2" type="xstring" value="A5"/>
+<entry key="3" type="xstring" value="A4051"/>
+<entry key="4" type="xstring" value="M4"/>
+<entry key="5" type="xstring" value="A55"/>
+<entry key="6" type="xstring" value="A48"/>
+<entry key="7" type="xstring" value="A470"/>
+<entry key="8" type="xstring" value="A494"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="2"/>
+<entry key="5" type="xint" value="2"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="10"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="A467"/>
+<entry key="1" type="xstring" value="A40"/>
+<entry key="2" type="xstring" value="A487"/>
+<entry key="3" type="xstring" value="A48"/>
+<entry key="4" type="xstring" value="A472"/>
+<entry key="5" type="xstring" value="A470"/>
+<entry key="6" type="xstring" value="A483"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="3"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="2"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="9"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="A487"/>
+<entry key="1" type="xstring" value="A5"/>
+<entry key="2" type="xstring" value="A465"/>
+<entry key="3" type="xstring" value="A466"/>
+<entry key="4" type="xstring" value="A470"/>
+<entry key="5" type="xstring" value="A494"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="2"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="2"/>
+<entry key="5" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="6"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="A40"/>
+<entry key="1" type="xstring" value="A5"/>
+<entry key="2" type="xstring" value="A473"/>
+<entry key="3" type="xstring" value="A470"/>
+<entry key="4" type="xstring" value="A458"/>
+<entry key="5" type="xstring" value="A494"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
 </config>
 </config>
 </config>
@@ -306,7 +478,7 @@
 <entry key="invalidCause" type="xstring" value="Too many values"/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="2"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="20"/>
 <entry key="0" type="xstring" value="Bridgend"/>
@@ -318,82 +490,172 @@
 <entry key="6" type="xstring" value="Pembrokeshire"/>
 <entry key="7" type="xstring" value="Denbighshire"/>
 <entry key="8" type="xstring" value="Isles of Scilly"/>
-<entry key="9" type="xstring" value="Cardiff"/>
-<entry key="10" type="xstring" value="Powys"/>
-<entry key="11" type="xstring" value="Torfaen"/>
-<entry key="12" type="xstring" value="Rhondda, Cynon, Taff"/>
-<entry key="13" type="xstring" value="Carmarthenshire"/>
-<entry key="14" type="xstring" value="Gwynedd"/>
-<entry key="15" type="xstring" value="Newport"/>
-<entry key="16" type="xstring" value="Neath Port Talbot"/>
+<entry key="9" type="xstring" value="Powys"/>
+<entry key="10" type="xstring" value="Torfaen"/>
+<entry key="11" type="xstring" value="Rhondda, Cynon, Taff"/>
+<entry key="12" type="xstring" value="Carmarthenshire"/>
+<entry key="13" type="xstring" value="Gwynedd"/>
+<entry key="14" type="xstring" value="Newport"/>
+<entry key="15" type="xstring" value="Neath Port Talbot"/>
+<entry key="16" type="xstring" value="Swansea"/>
 <entry key="17" type="xstring" value="Conwy"/>
 <entry key="18" type="xstring" value="Merthyr Tydfil"/>
 <entry key="19" type="xstring" value="Flintshire"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="64"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="15"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="20"/>
-<entry key="0" type="xstring" value="Bridgend"/>
-<entry key="1" type="xstring" value="Ceredigion"/>
-<entry key="2" type="xstring" value="The Vale of Glamorgan"/>
-<entry key="3" type="xstring" value="Monmouthshire"/>
-<entry key="4" type="xstring" value="Blaenau Gwent"/>
-<entry key="5" type="xstring" value="Isle of Anglesey"/>
-<entry key="6" type="xstring" value="Pembrokeshire"/>
-<entry key="7" type="xstring" value="Denbighshire"/>
-<entry key="8" type="xstring" value="Isles of Scilly"/>
-<entry key="9" type="xstring" value="Cardiff"/>
-<entry key="10" type="xstring" value="Powys"/>
-<entry key="11" type="xstring" value="Torfaen"/>
-<entry key="12" type="xstring" value="Rhondda, Cynon, Taff"/>
-<entry key="13" type="xstring" value="Carmarthenshire"/>
-<entry key="14" type="xstring" value="Gwynedd"/>
-<entry key="15" type="xstring" value="Newport"/>
-<entry key="16" type="xstring" value="Neath Port Talbot"/>
-<entry key="17" type="xstring" value="Conwy"/>
-<entry key="18" type="xstring" value="Merthyr Tydfil"/>
-<entry key="19" type="xstring" value="Flintshire"/>
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="Pembrokeshire"/>
+<entry key="1" type="xstring" value="Isles of Scilly"/>
+<entry key="2" type="xstring" value="Powys"/>
+<entry key="3" type="xstring" value="Carmarthenshire"/>
+<entry key="4" type="xstring" value="Gwynedd"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="20"/>
+<entry key="array-size" type="xint" value="5"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="5"/>
-<entry key="2" type="xint" value="1"/>
-<entry key="3" type="xint" value="3"/>
-<entry key="4" type="xint" value="1"/>
-<entry key="5" type="xint" value="1"/>
-<entry key="6" type="xint" value="4"/>
-<entry key="7" type="xint" value="2"/>
-<entry key="8" type="xint" value="5"/>
-<entry key="9" type="xint" value="1"/>
-<entry key="10" type="xint" value="8"/>
-<entry key="11" type="xint" value="1"/>
-<entry key="12" type="xint" value="3"/>
-<entry key="13" type="xint" value="7"/>
-<entry key="14" type="xint" value="11"/>
-<entry key="15" type="xint" value="2"/>
-<entry key="16" type="xint" value="1"/>
-<entry key="17" type="xint" value="3"/>
-<entry key="18" type="xint" value="1"/>
-<entry key="19" type="xint" value="3"/>
+<entry key="2" type="xint" value="3"/>
+<entry key="3" type="xint" value="2"/>
+<entry key="4" type="xint" value="4"/>
 </config>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="2"/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="4"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="Monmouthshire"/>
-<entry key="1" type="xstring" value="Conwy"/>
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="Powys"/>
+<entry key="1" type="xstring" value="Carmarthenshire"/>
+<entry key="2" type="xstring" value="Flintshire"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="2"/>
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="11"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Bridgend"/>
+<entry key="1" type="xstring" value="The Vale of Glamorgan"/>
+<entry key="2" type="xstring" value="Monmouthshire"/>
+<entry key="3" type="xstring" value="Isle of Anglesey"/>
+<entry key="4" type="xstring" value="Denbighshire"/>
+<entry key="5" type="xstring" value="Rhondda, Cynon, Taff"/>
+<entry key="6" type="xstring" value="Gwynedd"/>
+<entry key="7" type="xstring" value="Newport"/>
+<entry key="8" type="xstring" value="Swansea"/>
+<entry key="9" type="xstring" value="Conwy"/>
+<entry key="10" type="xstring" value="Flintshire"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xint" value="1"/>
 <entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="1"/>
+<entry key="10" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="14"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Ceredigion"/>
+<entry key="1" type="xstring" value="Monmouthshire"/>
+<entry key="2" type="xstring" value="Blaenau Gwent"/>
+<entry key="3" type="xstring" value="Pembrokeshire"/>
+<entry key="4" type="xstring" value="Denbighshire"/>
+<entry key="5" type="xstring" value="Powys"/>
+<entry key="6" type="xstring" value="Torfaen"/>
+<entry key="7" type="xstring" value="Carmarthenshire"/>
+<entry key="8" type="xstring" value="Gwynedd"/>
+<entry key="9" type="xstring" value="Neath Port Talbot"/>
+<entry key="10" type="xstring" value="Conwy"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="3"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="2"/>
+<entry key="9" type="xint" value="1"/>
+<entry key="10" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="15"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="10"/>
+<entry key="0" type="xstring" value="Ceredigion"/>
+<entry key="1" type="xstring" value="Monmouthshire"/>
+<entry key="2" type="xstring" value="Pembrokeshire"/>
+<entry key="3" type="xstring" value="Denbighshire"/>
+<entry key="4" type="xstring" value="Powys"/>
+<entry key="5" type="xstring" value="Carmarthenshire"/>
+<entry key="6" type="xstring" value="Gwynedd"/>
+<entry key="7" type="xstring" value="Conwy"/>
+<entry key="8" type="xstring" value="Merthyr Tydfil"/>
+<entry key="9" type="xstring" value="Flintshire"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="10"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="2"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="2"/>
+<entry key="6" type="xint" value="2"/>
+<entry key="7" type="xint" value="1"/>
+<entry key="8" type="xint" value="1"/>
+<entry key="9" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="7"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="Ceredigion"/>
+<entry key="1" type="xstring" value="Powys"/>
+<entry key="2" type="xstring" value="Rhondda, Cynon, Taff"/>
+<entry key="3" type="xstring" value="Carmarthenshire"/>
+<entry key="4" type="xstring" value="Gwynedd"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="2"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="2"/>
 </config>
 </config>
 </config>
@@ -401,7 +663,7 @@
 </config>
 <config key="AttributeModelSection">
 <entry key="RecordCounter" type="xint" value="63668"/>
-<entry key="AttributeModelCounter" type="xint" value="4"/>
+<entry key="AttributeModelCounter" type="xint" value="20"/>
 <config key="AttributeModelData_0">
 <entry key="attributeName" type="xstring" value="LenNet"/>
 <entry key="type" type="xstring" value="NumericalModel"/>
@@ -409,66 +671,468 @@
 <entry key="numberOfMissingValues" type="xint" value="0"/>
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
-<entry key="noOfClasses" type="xint" value="8"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="480 - 560 tys."/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="25"/>
-<entry key="sum" type="xdouble" value="357.0"/>
-<entry key="squareSum" type="xdouble" value="5460.1399999999985"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="25645.48999999992"/>
+<entry key="squareSum" type="xdouble" value="168621.7502999942"/>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="320 - 400 tys."/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="75"/>
-<entry key="sum" type="xdouble" value="840.6000000000003"/>
-<entry key="squareSum" type="xdouble" value="10270.059999999998"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="26558.529999999937"/>
+<entry key="squareSum" type="xdouble" value="225416.4029000008"/>
 </config>
 <config key="classValueData_2">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="61495"/>
-<entry key="sum" type="xdouble" value="163637.48000000257"/>
-<entry key="squareSum" type="xdouble" value="1260228.3782000176"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="54022.80000000008"/>
+<entry key="squareSum" type="xdouble" value="557907.8381999988"/>
 </config>
 <config key="classValueData_3">
-<entry key="classValue" type="xstring" value="pow. 560 tys."/>
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="16"/>
-<entry key="sum" type="xdouble" value="267.09999999999997"/>
-<entry key="squareSum" type="xdouble" value="4635.01"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="25085.24999999999"/>
+<entry key="squareSum" type="xdouble" value="164787.30810000064"/>
 </config>
 <config key="classValueData_4">
-<entry key="classValue" type="xstring" value="400 - 480 tys."/>
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="45"/>
-<entry key="sum" type="xdouble" value="597.7"/>
-<entry key="squareSum" type="xdouble" value="8642.83"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="30860.50999999978"/>
+<entry key="squareSum" type="xdouble" value="201187.07769999874"/>
 </config>
 <config key="classValueData_5">
-<entry key="classValue" type="xstring" value="240 - 320 tys."/>
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="158"/>
-<entry key="sum" type="xdouble" value="1410.8000000000002"/>
-<entry key="squareSum" type="xdouble" value="14556.959999999994"/>
-</config>
-<config key="classValueData_6">
-<entry key="classValue" type="xstring" value="160 - 240 tys."/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="416"/>
-<entry key="sum" type="xdouble" value="3079.6000000000004"/>
-<entry key="squareSum" type="xdouble" value="30282.179999999993"/>
-</config>
-<config key="classValueData_7">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<entry key="noOfRows" type="xint" value="1438"/>
-<entry key="sum" type="xdouble" value="9877.149999999992"/>
-<entry key="squareSum" type="xdouble" value="106249.5524999999"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="18726.499999999945"/>
+<entry key="squareSum" type="xdouble" value="143022.84620000052"/>
 </config>
 </config>
 </config>
 <config key="AttributeModelData_1">
+<entry key="attributeName" type="xstring" value="S Ref E"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="9.576608506E9"/>
+<entry key="squareSum" type="xdouble" value="4.211408453780994E15"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="2.282736322E9"/>
+<entry key="squareSum" type="xdouble" value="1.012443069271074E15"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="3.632416671E9"/>
+<entry key="squareSum" type="xdouble" value="1.647217411692477E15"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="3.397957346E9"/>
+<entry key="squareSum" type="xdouble" value="1.499879775097976E15"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="5.789728415E9"/>
+<entry key="squareSum" type="xdouble" value="2.552128937173955E15"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="1.997070398E9"/>
+<entry key="squareSum" type="xdouble" value="8.84527680450104E14"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_2">
+<entry key="attributeName" type="xstring" value="HGVR3"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="252903.48000000097"/>
+<entry key="squareSum" type="xdouble" value="1.139594147719968E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="568753.6899999996"/>
+<entry key="squareSum" type="xdouble" value="1.0019076733009994E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="2973928.810000008"/>
+<entry key="squareSum" type="xdouble" value="2.2329032110621014E9"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="419508.38000000024"/>
+<entry key="squareSum" type="xdouble" value="4.548686303699989E7"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="421673.4000000033"/>
+<entry key="squareSum" type="xdouble" value="3.3140313300199714E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="342563.9500000008"/>
+<entry key="squareSum" type="xdouble" value="4.956405645529984E7"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_3">
+<entry key="attributeName" type="xstring" value="HGVR4"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="177066.32000000088"/>
+<entry key="squareSum" type="xdouble" value="4800777.007799955"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="548153.4299999985"/>
+<entry key="squareSum" type="xdouble" value="1.017493263975001E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="2821777.669999992"/>
+<entry key="squareSum" type="xdouble" value="1.9141818272510996E9"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="362256.5700000012"/>
+<entry key="squareSum" type="xdouble" value="3.842515175609988E7"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="347117.4900000007"/>
+<entry key="squareSum" type="xdouble" value="2.3538586749899823E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="314774.9600000003"/>
+<entry key="squareSum" type="xdouble" value="4.181075821219988E7"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_4">
+<entry key="attributeName" type="xstring" value="LGV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="6366181.059999983"/>
+<entry key="squareSum" type="xdouble" value="2.4464342880099907E9"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1.4236489170000022E7"/>
+<entry key="squareSum" type="xdouble" value="3.955451281714859E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="6.853488502999982E7"/>
+<entry key="squareSum" type="xdouble" value="1.0435878256207893E12"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="1.0759286799999999E7"/>
+<entry key="squareSum" type="xdouble" value="1.520663504671432E10"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="1.1101270279999979E7"/>
+<entry key="squareSum" type="xdouble" value="9.783076964042343E9"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="8887287.099999998"/>
+<entry key="squareSum" type="xdouble" value="1.7511369947640232E10"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_5">
+<entry key="attributeName" type="xstring" value="HGVR2"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="1257910.969999999"/>
+<entry key="squareSum" type="xdouble" value="1.1226435131250018E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="3435604.5600000005"/>
+<entry key="squareSum" type="xdouble" value="2.6149246184927936E9"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="2.0786330889999975E7"/>
+<entry key="squareSum" type="xdouble" value="1.2016081165082214E11"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="2343891.4"/>
+<entry key="squareSum" type="xdouble" value="8.351358923007988E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="2315520.9700000044"/>
+<entry key="squareSum" type="xdouble" value="4.9415465254549646E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="2004437.93"/>
+<entry key="squareSum" type="xdouble" value="1.0276285929787029E9"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_6">
+<entry key="attributeName" type="xstring" value="2WMV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="773447.1400000032"/>
+<entry key="squareSum" type="xdouble" value="7.45302265262E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1354391.849999999"/>
+<entry key="squareSum" type="xdouble" value="5.607090049199016E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="4304560.23999999"/>
+<entry key="squareSum" type="xdouble" value="4.1419262736155972E9"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="1118727.8699999957"/>
+<entry key="squareSum" type="xdouble" value="2.680114916927E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="1205632.189999996"/>
+<entry key="squareSum" type="xdouble" value="2.201216964198997E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="888612.9299999997"/>
+<entry key="squareSum" type="xdouble" value="2.974086783321E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_7">
+<entry key="attributeName" type="xstring" value="Car"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="4.588543361999946E7"/>
+<entry key="squareSum" type="xdouble" value="1.19702019871614E11"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1.0764596694000034E8"/>
+<entry key="squareSum" type="xdouble" value="2.177079787756827E12"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="4.94583147780002E8"/>
+<entry key="squareSum" type="xdouble" value="5.311189009250413E13"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="8.21090060800001E7"/>
+<entry key="squareSum" type="xdouble" value="8.450842238779852E11"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="8.277706214999957E7"/>
+<entry key="squareSum" type="xdouble" value="5.1524743693236743E11"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="6.725503102E7"/>
+<entry key="squareSum" type="xdouble" value="9.621855542386302E11"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_8">
+<entry key="attributeName" type="xstring" value="Year"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="4.6250374E7"/>
+<entry key="squareSum" type="xdouble" value="9.2569575976E10"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1.0836175E7"/>
+<entry key="squareSum" type="xdouble" value="2.1688719105E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="1.6854883E7"/>
+<entry key="squareSum" type="xdouble" value="3.3735562249E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="1.6232144E7"/>
+<entry key="squareSum" type="xdouble" value="3.248860437E10"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="2.7752797E7"/>
+<entry key="squareSum" type="xdouble" value="5.5547236453E10"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="9505224.0"/>
+<entry key="squareSum" type="xdouble" value="1.9024912926E10"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_9">
 <entry key="attributeName" type="xstring" value="AllMV"/>
 <entry key="type" type="xstring" value="ClassModel"/>
 <entry key="skipMissingVals" type="xboolean" value="false"/>
@@ -478,30 +1142,234 @@
 <entry key="totalNoOfRecords" type="xint" value="63668"/>
 <entry key="maxNoOfClassValues" type="xint" value="20"/>
 <config key="classValues">
-<entry key="array-size" type="xint" value="8"/>
-<entry key="0" type="xstring" value="240 - 320 tys."/>
-<entry key="1" type="xstring" value="160 - 240 tys."/>
-<entry key="2" type="xstring" value="80 - 160 tys."/>
-<entry key="3" type="xstring" value="480 - 560 tys."/>
-<entry key="4" type="xstring" value="320 - 400 tys."/>
-<entry key="5" type="xstring" value="do 80 tys."/>
-<entry key="6" type="xstring" value="pow. 560 tys."/>
-<entry key="7" type="xstring" value="400 - 480 tys."/>
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="do 5 tys."/>
+<entry key="1" type="xstring" value="20 - 30 tys."/>
+<entry key="2" type="xstring" value="pow 30 tys."/>
+<entry key="3" type="xstring" value="10 - 15 tys."/>
+<entry key="4" type="xstring" value="5 - 10 tys."/>
+<entry key="5" type="xstring" value="15 - 20 tys."/>
 </config>
 <config key="classRecordCounter">
-<entry key="array-size" type="xint" value="8"/>
-<entry key="0" type="xint" value="158"/>
-<entry key="1" type="xint" value="416"/>
-<entry key="2" type="xint" value="1438"/>
-<entry key="3" type="xint" value="25"/>
-<entry key="4" type="xint" value="75"/>
-<entry key="5" type="xint" value="61495"/>
-<entry key="6" type="xint" value="16"/>
-<entry key="7" type="xint" value="45"/>
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="23108"/>
+<entry key="1" type="xint" value="5414"/>
+<entry key="2" type="xint" value="8421"/>
+<entry key="3" type="xint" value="8110"/>
+<entry key="4" type="xint" value="13866"/>
+<entry key="5" type="xint" value="4749"/>
 </config>
 </config>
 </config>
-<config key="AttributeModelData_2">
+<config key="AttributeModelData_10">
+<entry key="attributeName" type="xstring" value="HGVA6"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="258815.53000000035"/>
+<entry key="squareSum" type="xdouble" value="2.046550627110008E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1110158.5700000005"/>
+<entry key="squareSum" type="xdouble" value="7.033646727182994E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="1.2960572280000048E7"/>
+<entry key="squareSum" type="xdouble" value="7.829985766773895E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="575302.0700000016"/>
+<entry key="squareSum" type="xdouble" value="1.4617681756910086E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="509785.8099999992"/>
+<entry key="squareSum" type="xdouble" value="7.693553507689977E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="569948.3800000001"/>
+<entry key="squareSum" type="xdouble" value="2.2571127751979962E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_11">
+<entry key="attributeName" type="xstring" value="HGVA5"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="289186.70000000315"/>
+<entry key="squareSum" type="xdouble" value="2.274437617700059E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1401768.3600000006"/>
+<entry key="squareSum" type="xdouble" value="9.785912986492021E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="1.8925943200000007E7"/>
+<entry key="squareSum" type="xdouble" value="1.8678255268292538E11"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="690377.8899999995"/>
+<entry key="squareSum" type="xdouble" value="1.9230841296589917E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="606808.6500000048"/>
+<entry key="squareSum" type="xdouble" value="9.867556091450085E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="684691.1500000013"/>
+<entry key="squareSum" type="xdouble" value="2.847812340934998E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_12">
+<entry key="attributeName" type="xstring" value="HGVA3"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="156814.44999999876"/>
+<entry key="squareSum" type="xdouble" value="3769830.2162999567"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="633371.1700000002"/>
+<entry key="squareSum" type="xdouble" value="1.5516138246029964E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="6407449.840000012"/>
+<entry key="squareSum" type="xdouble" value="1.774584104309325E10"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="350423.1000000005"/>
+<entry key="squareSum" type="xdouble" value="3.445075668679993E7"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="312559.2200000026"/>
+<entry key="squareSum" type="xdouble" value="1.7249438384599864E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="329357.1400000003"/>
+<entry key="squareSum" type="xdouble" value="4.876178491039983E7"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_13">
+<entry key="attributeName" type="xstring" value="HGV"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="2393183.0999999866"/>
+<entry key="squareSum" type="xdouble" value="5.356150486809987E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="7697921.720000019"/>
+<entry key="squareSum" type="xdouble" value="1.659471681552183E10"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="6.487617260000014E7"/>
+<entry key="squareSum" type="xdouble" value="1.5440170630841777E12"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="4741924.580000007"/>
+<entry key="squareSum" type="xdouble" value="4.276091148028395E9"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="4513748.699999978"/>
+<entry key="squareSum" type="xdouble" value="2.3635069706359925E9"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="4245870.659999988"/>
+<entry key="squareSum" type="xdouble" value="5.780516073403397E9"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_14">
 <entry key="attributeName" type="xstring" value="RCategory"/>
 <entry key="type" type="xstring" value="NominalModel"/>
 <entry key="skipMissingVals" type="xboolean" value="false"/>
@@ -509,7 +1377,7 @@
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="8"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="6"/>
 <entry key="0" type="xstring" value="TM"/>
@@ -520,36 +1388,54 @@
 <entry key="5" type="xstring" value="TU"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="480 - 560 tys."/>
-<entry key="noOfRows" type="xint" value="25"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="23108"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="1"/>
+<entry key="array-size" type="xint" value="6"/>
 <entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xint" value="25"/>
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="285"/>
+<entry key="1" type="xint" value="1168"/>
+<entry key="2" type="xint" value="24"/>
+<entry key="3" type="xint" value="13861"/>
+<entry key="4" type="xint" value="7455"/>
+<entry key="5" type="xint" value="315"/>
 </config>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="320 - 400 tys."/>
-<entry key="noOfRows" type="xint" value="75"/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="5414"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="2"/>
+<entry key="array-size" type="xint" value="6"/>
 <entry key="0" type="xstring" value="TM"/>
 <entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xint" value="72"/>
-<entry key="1" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="328"/>
+<entry key="1" type="xint" value="759"/>
+<entry key="2" type="xint" value="18"/>
+<entry key="3" type="xint" value="1923"/>
+<entry key="4" type="xint" value="2252"/>
+<entry key="5" type="xint" value="134"/>
 </config>
 </config>
 <config key="classValueData_2">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="61495"/>
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="8421"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="6"/>
@@ -562,79 +1448,17 @@
 </config>
 <config key="attributeCounter">
 <entry key="array-size" type="xint" value="6"/>
-<entry key="0" type="xint" value="2199"/>
-<entry key="1" type="xint" value="5652"/>
-<entry key="2" type="xint" value="120"/>
-<entry key="3" type="xint" value="30930"/>
-<entry key="4" type="xint" value="21511"/>
-<entry key="5" type="xint" value="1083"/>
+<entry key="0" type="xint" value="2332"/>
+<entry key="1" type="xint" value="2177"/>
+<entry key="2" type="xint" value="28"/>
+<entry key="3" type="xint" value="1223"/>
+<entry key="4" type="xint" value="2480"/>
+<entry key="5" type="xint" value="181"/>
 </config>
 </config>
 <config key="classValueData_3">
-<entry key="classValue" type="xstring" value="pow. 560 tys."/>
-<entry key="noOfRows" type="xint" value="16"/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="TM"/>
-</config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xint" value="16"/>
-</config>
-</config>
-<config key="classValueData_4">
-<entry key="classValue" type="xstring" value="400 - 480 tys."/>
-<entry key="noOfRows" type="xint" value="45"/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="TM"/>
-</config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xint" value="45"/>
-</config>
-</config>
-<config key="classValueData_5">
-<entry key="classValue" type="xstring" value="240 - 320 tys."/>
-<entry key="noOfRows" type="xint" value="158"/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="3"/>
-<entry key="0" type="xstring" value="TM"/>
-<entry key="1" type="xstring" value="TR"/>
-<entry key="2" type="xstring" value="PR"/>
-</config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="3"/>
-<entry key="0" type="xint" value="152"/>
-<entry key="1" type="xint" value="5"/>
-<entry key="2" type="xint" value="1"/>
-</config>
-</config>
-<config key="classValueData_6">
-<entry key="classValue" type="xstring" value="160 - 240 tys."/>
-<entry key="noOfRows" type="xint" value="416"/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xstring" value="TM"/>
-<entry key="1" type="xstring" value="TR"/>
-<entry key="2" type="xstring" value="PU"/>
-<entry key="3" type="xstring" value="PR"/>
-</config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="350"/>
-<entry key="1" type="xint" value="59"/>
-<entry key="2" type="xint" value="4"/>
-<entry key="3" type="xint" value="3"/>
-</config>
-</config>
-<config key="classValueData_7">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="1438"/>
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="8110"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="6"/>
@@ -647,17 +1471,115 @@
 </config>
 <config key="attributeCounter">
 <entry key="array-size" type="xint" value="6"/>
-<entry key="0" type="xint" value="700"/>
-<entry key="1" type="xint" value="495"/>
-<entry key="2" type="xint" value="8"/>
-<entry key="3" type="xint" value="54"/>
-<entry key="4" type="xint" value="168"/>
-<entry key="5" type="xint" value="13"/>
+<entry key="0" type="xint" value="176"/>
+<entry key="1" type="xint" value="758"/>
+<entry key="2" type="xint" value="13"/>
+<entry key="3" type="xint" value="4091"/>
+<entry key="4" type="xint" value="2906"/>
+<entry key="5" type="xint" value="166"/>
+</config>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="258"/>
+<entry key="1" type="xint" value="824"/>
+<entry key="2" type="xint" value="38"/>
+<entry key="3" type="xint" value="7831"/>
+<entry key="4" type="xint" value="4743"/>
+<entry key="5" type="xint" value="172"/>
+</config>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="TM"/>
+<entry key="1" type="xstring" value="TR"/>
+<entry key="2" type="xstring" value="PM"/>
+<entry key="3" type="xstring" value="PU"/>
+<entry key="4" type="xstring" value="PR"/>
+<entry key="5" type="xstring" value="TU"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="170"/>
+<entry key="1" type="xint" value="506"/>
+<entry key="2" type="xint" value="15"/>
+<entry key="3" type="xint" value="2029"/>
+<entry key="4" type="xint" value="1906"/>
+<entry key="5" type="xint" value="123"/>
 </config>
 </config>
 </config>
 </config>
-<config key="AttributeModelData_3">
+<config key="AttributeModelData_15">
+<entry key="attributeName" type="xstring" value="Bus"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="1003500.6299999942"/>
+<entry key="squareSum" type="xdouble" value="1.3263704832510178E8"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1250946.0700000022"/>
+<entry key="squareSum" type="xdouble" value="4.768277524354997E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="3817819.349999995"/>
+<entry key="squareSum" type="xdouble" value="3.5684117786646934E9"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="1254772.259999997"/>
+<entry key="squareSum" type="xdouble" value="3.624148397525994E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="1379240.3899999964"/>
+<entry key="squareSum" type="xdouble" value="2.6457156337829977E8"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="895790.9999999991"/>
+<entry key="squareSum" type="xdouble" value="2.984523417969988E8"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_16">
 <entry key="attributeName" type="xstring" value="ONS GOR Name"/>
 <entry key="type" type="xstring" value="NominalModel"/>
 <entry key="skipMissingVals" type="xboolean" value="false"/>
@@ -665,7 +1587,7 @@
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
 <entry key="maxNoOfAttrs" type="xint" value="20"/>
-<entry key="noOfClasses" type="xint" value="8"/>
+<entry key="noOfClasses" type="xint" value="6"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xstring" value="Wales"/>
@@ -681,56 +1603,74 @@
 <entry key="10" type="xstring" value="South West"/>
 </config>
 <config key="classValueData_0">
-<entry key="classValue" type="xstring" value="480 - 560 tys."/>
-<entry key="noOfRows" type="xint" value="25"/>
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="noOfRows" type="xint" value="23108"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="6"/>
-<entry key="0" type="xstring" value="North West"/>
-<entry key="1" type="xstring" value="East Midlands"/>
-<entry key="2" type="xstring" value="South East"/>
-<entry key="3" type="xstring" value="West Midlands"/>
-<entry key="4" type="xstring" value="East of England"/>
-<entry key="5" type="xstring" value="South West"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Wales"/>
+<entry key="1" type="xstring" value="North West"/>
+<entry key="2" type="xstring" value="London"/>
+<entry key="3" type="xstring" value="Scotland"/>
+<entry key="4" type="xstring" value="North East"/>
+<entry key="5" type="xstring" value="East Midlands"/>
+<entry key="6" type="xstring" value="South East"/>
+<entry key="7" type="xstring" value="West Midlands"/>
+<entry key="8" type="xstring" value="East of England"/>
+<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="10" type="xstring" value="South West"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="6"/>
-<entry key="0" type="xint" value="4"/>
-<entry key="1" type="xint" value="6"/>
-<entry key="2" type="xint" value="9"/>
-<entry key="3" type="xint" value="3"/>
-<entry key="4" type="xint" value="2"/>
-<entry key="5" type="xint" value="1"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="1467"/>
+<entry key="1" type="xint" value="3376"/>
+<entry key="2" type="xint" value="2960"/>
+<entry key="3" type="xint" value="3417"/>
+<entry key="4" type="xint" value="1016"/>
+<entry key="5" type="xint" value="1576"/>
+<entry key="6" type="xint" value="2587"/>
+<entry key="7" type="xint" value="1936"/>
+<entry key="8" type="xint" value="1536"/>
+<entry key="9" type="xint" value="1544"/>
+<entry key="10" type="xint" value="1693"/>
 </config>
 </config>
 <config key="classValueData_1">
-<entry key="classValue" type="xstring" value="320 - 400 tys."/>
-<entry key="noOfRows" type="xint" value="75"/>
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="noOfRows" type="xint" value="5414"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="7"/>
-<entry key="0" type="xstring" value="North West"/>
-<entry key="1" type="xstring" value="London"/>
-<entry key="2" type="xstring" value="East Midlands"/>
-<entry key="3" type="xstring" value="South East"/>
-<entry key="4" type="xstring" value="West Midlands"/>
-<entry key="5" type="xstring" value="East of England"/>
-<entry key="6" type="xstring" value="South West"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Wales"/>
+<entry key="1" type="xstring" value="North West"/>
+<entry key="2" type="xstring" value="London"/>
+<entry key="3" type="xstring" value="Scotland"/>
+<entry key="4" type="xstring" value="North East"/>
+<entry key="5" type="xstring" value="East Midlands"/>
+<entry key="6" type="xstring" value="South East"/>
+<entry key="7" type="xstring" value="West Midlands"/>
+<entry key="8" type="xstring" value="East of England"/>
+<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="10" type="xstring" value="South West"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="7"/>
-<entry key="0" type="xint" value="9"/>
-<entry key="1" type="xint" value="3"/>
-<entry key="2" type="xint" value="3"/>
-<entry key="3" type="xint" value="30"/>
-<entry key="4" type="xint" value="8"/>
-<entry key="5" type="xint" value="10"/>
-<entry key="6" type="xint" value="12"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="316"/>
+<entry key="1" type="xint" value="614"/>
+<entry key="2" type="xint" value="432"/>
+<entry key="3" type="xint" value="603"/>
+<entry key="4" type="xint" value="205"/>
+<entry key="5" type="xint" value="456"/>
+<entry key="6" type="xint" value="859"/>
+<entry key="7" type="xint" value="480"/>
+<entry key="8" type="xint" value="434"/>
+<entry key="9" type="xint" value="446"/>
+<entry key="10" type="xint" value="569"/>
 </config>
 </config>
 <config key="classValueData_2">
-<entry key="classValue" type="xstring" value="do 80 tys."/>
-<entry key="noOfRows" type="xint" value="61495"/>
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="noOfRows" type="xint" value="8421"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="11"/>
@@ -748,91 +1688,88 @@
 </config>
 <config key="attributeCounter">
 <entry key="array-size" type="xint" value="11"/>
-<entry key="0" type="xint" value="3932"/>
-<entry key="1" type="xint" value="7866"/>
-<entry key="2" type="xint" value="6519"/>
-<entry key="3" type="xint" value="7836"/>
-<entry key="4" type="xint" value="2657"/>
-<entry key="5" type="xint" value="4479"/>
-<entry key="6" type="xint" value="7968"/>
-<entry key="7" type="xint" value="5553"/>
-<entry key="8" type="xint" value="4757"/>
-<entry key="9" type="xint" value="4619"/>
-<entry key="10" type="xint" value="5309"/>
+<entry key="0" type="xint" value="469"/>
+<entry key="1" type="xint" value="893"/>
+<entry key="2" type="xint" value="470"/>
+<entry key="3" type="xint" value="731"/>
+<entry key="4" type="xint" value="334"/>
+<entry key="5" type="xint" value="751"/>
+<entry key="6" type="xint" value="1526"/>
+<entry key="7" type="xint" value="681"/>
+<entry key="8" type="xint" value="1031"/>
+<entry key="9" type="xint" value="730"/>
+<entry key="10" type="xint" value="805"/>
 </config>
 </config>
 <config key="classValueData_3">
-<entry key="classValue" type="xstring" value="pow. 560 tys."/>
-<entry key="noOfRows" type="xint" value="16"/>
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="noOfRows" type="xint" value="8110"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xstring" value="East Midlands"/>
-<entry key="1" type="xstring" value="South East"/>
-<entry key="2" type="xstring" value="West Midlands"/>
-<entry key="3" type="xstring" value="South West"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Wales"/>
+<entry key="1" type="xstring" value="North West"/>
+<entry key="2" type="xstring" value="London"/>
+<entry key="3" type="xstring" value="Scotland"/>
+<entry key="4" type="xstring" value="North East"/>
+<entry key="5" type="xstring" value="East Midlands"/>
+<entry key="6" type="xstring" value="South East"/>
+<entry key="7" type="xstring" value="West Midlands"/>
+<entry key="8" type="xstring" value="East of England"/>
+<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="10" type="xstring" value="South West"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="1"/>
-<entry key="1" type="xint" value="6"/>
-<entry key="2" type="xint" value="6"/>
-<entry key="3" type="xint" value="3"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="569"/>
+<entry key="1" type="xint" value="901"/>
+<entry key="2" type="xint" value="811"/>
+<entry key="3" type="xint" value="941"/>
+<entry key="4" type="xint" value="325"/>
+<entry key="5" type="xint" value="507"/>
+<entry key="6" type="xint" value="1106"/>
+<entry key="7" type="xint" value="838"/>
+<entry key="8" type="xint" value="607"/>
+<entry key="9" type="xint" value="693"/>
+<entry key="10" type="xint" value="812"/>
 </config>
 </config>
 <config key="classValueData_4">
-<entry key="classValue" type="xstring" value="400 - 480 tys."/>
-<entry key="noOfRows" type="xint" value="45"/>
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="noOfRows" type="xint" value="13866"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
-<entry key="array-size" type="xint" value="5"/>
-<entry key="0" type="xstring" value="North West"/>
-<entry key="1" type="xstring" value="East Midlands"/>
-<entry key="2" type="xstring" value="South East"/>
-<entry key="3" type="xstring" value="West Midlands"/>
-<entry key="4" type="xstring" value="East of England"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="Wales"/>
+<entry key="1" type="xstring" value="North West"/>
+<entry key="2" type="xstring" value="London"/>
+<entry key="3" type="xstring" value="Scotland"/>
+<entry key="4" type="xstring" value="North East"/>
+<entry key="5" type="xstring" value="East Midlands"/>
+<entry key="6" type="xstring" value="South East"/>
+<entry key="7" type="xstring" value="West Midlands"/>
+<entry key="8" type="xstring" value="East of England"/>
+<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
+<entry key="10" type="xstring" value="South West"/>
 </config>
 <config key="attributeCounter">
-<entry key="array-size" type="xint" value="5"/>
-<entry key="0" type="xint" value="5"/>
-<entry key="1" type="xint" value="8"/>
-<entry key="2" type="xint" value="19"/>
-<entry key="3" type="xint" value="7"/>
-<entry key="4" type="xint" value="6"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xint" value="938"/>
+<entry key="1" type="xint" value="1765"/>
+<entry key="2" type="xint" value="1585"/>
+<entry key="3" type="xint" value="1735"/>
+<entry key="4" type="xint" value="643"/>
+<entry key="5" type="xint" value="1011"/>
+<entry key="6" type="xint" value="1661"/>
+<entry key="7" type="xint" value="1314"/>
+<entry key="8" type="xint" value="1034"/>
+<entry key="9" type="xint" value="1028"/>
+<entry key="10" type="xint" value="1152"/>
 </config>
 </config>
 <config key="classValueData_5">
-<entry key="classValue" type="xstring" value="240 - 320 tys."/>
-<entry key="noOfRows" type="xint" value="158"/>
-<entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="9"/>
-<entry key="0" type="xstring" value="Wales"/>
-<entry key="1" type="xstring" value="North West"/>
-<entry key="2" type="xstring" value="London"/>
-<entry key="3" type="xstring" value="East Midlands"/>
-<entry key="4" type="xstring" value="South East"/>
-<entry key="5" type="xstring" value="West Midlands"/>
-<entry key="6" type="xstring" value="East of England"/>
-<entry key="7" type="xstring" value="Yorkshire and The Humber"/>
-<entry key="8" type="xstring" value="South West"/>
-</config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="9"/>
-<entry key="0" type="xint" value="5"/>
-<entry key="1" type="xint" value="20"/>
-<entry key="2" type="xint" value="3"/>
-<entry key="3" type="xint" value="16"/>
-<entry key="4" type="xint" value="45"/>
-<entry key="5" type="xint" value="24"/>
-<entry key="6" type="xint" value="11"/>
-<entry key="7" type="xint" value="11"/>
-<entry key="8" type="xint" value="23"/>
-</config>
-</config>
-<config key="classValueData_6">
-<entry key="classValue" type="xstring" value="160 - 240 tys."/>
-<entry key="noOfRows" type="xint" value="416"/>
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="noOfRows" type="xint" value="4749"/>
 <entry key="MissingValCounter" type="xint" value="0"/>
 <config key="attributeValues">
 <entry key="array-size" type="xint" value="11"/>
@@ -850,51 +1787,174 @@
 </config>
 <config key="attributeCounter">
 <entry key="array-size" type="xint" value="11"/>
-<entry key="0" type="xint" value="12"/>
-<entry key="1" type="xint" value="54"/>
-<entry key="2" type="xint" value="18"/>
-<entry key="3" type="xint" value="9"/>
-<entry key="4" type="xint" value="10"/>
-<entry key="5" type="xint" value="21"/>
-<entry key="6" type="xint" value="103"/>
-<entry key="7" type="xint" value="42"/>
-<entry key="8" type="xint" value="58"/>
-<entry key="9" type="xint" value="47"/>
-<entry key="10" type="xint" value="42"/>
+<entry key="0" type="xint" value="316"/>
+<entry key="1" type="xint" value="612"/>
+<entry key="2" type="xint" value="343"/>
+<entry key="3" type="xint" value="447"/>
+<entry key="4" type="xint" value="195"/>
+<entry key="5" type="xint" value="362"/>
+<entry key="6" type="xint" value="658"/>
+<entry key="7" type="xint" value="477"/>
+<entry key="8" type="xint" value="468"/>
+<entry key="9" type="xint" value="408"/>
+<entry key="10" type="xint" value="463"/>
 </config>
 </config>
-<config key="classValueData_7">
-<entry key="classValue" type="xstring" value="80 - 160 tys."/>
-<entry key="noOfRows" type="xint" value="1438"/>
+</config>
+</config>
+<config key="AttributeModelData_17">
+<entry key="attributeName" type="xstring" value="CP"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
 <entry key="MissingValCounter" type="xint" value="0"/>
-<config key="attributeValues">
-<entry key="array-size" type="xint" value="11"/>
-<entry key="0" type="xstring" value="Wales"/>
-<entry key="1" type="xstring" value="North West"/>
-<entry key="2" type="xstring" value="London"/>
-<entry key="3" type="xstring" value="Scotland"/>
-<entry key="4" type="xstring" value="North East"/>
-<entry key="5" type="xstring" value="East Midlands"/>
-<entry key="6" type="xstring" value="South East"/>
-<entry key="7" type="xstring" value="West Midlands"/>
-<entry key="8" type="xstring" value="East of England"/>
-<entry key="9" type="xstring" value="Yorkshire and The Humber"/>
-<entry key="10" type="xstring" value="South West"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="1.19407074E9"/>
+<entry key="squareSum" type="xdouble" value="7.8069151724298E13"/>
 </config>
-<config key="attributeCounter">
-<entry key="array-size" type="xint" value="11"/>
-<entry key="0" type="xint" value="75"/>
-<entry key="1" type="xint" value="185"/>
-<entry key="2" type="xint" value="58"/>
-<entry key="3" type="xint" value="100"/>
-<entry key="4" type="xint" value="46"/>
-<entry key="5" type="xint" value="139"/>
-<entry key="6" type="xint" value="240"/>
-<entry key="7" type="xint" value="95"/>
-<entry key="8" type="xint" value="227"/>
-<entry key="9" type="xint" value="171"/>
-<entry key="10" type="xint" value="102"/>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="2.26083957E8"/>
+<entry key="squareSum" type="xdouble" value="1.3101231085475E13"/>
 </config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="3.4329488E8"/>
+<entry key="squareSum" type="xdouble" value="1.9534427272668E13"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="3.43208309E8"/>
+<entry key="squareSum" type="xdouble" value="2.0087802522491E13"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="6.29872269E8"/>
+<entry key="squareSum" type="xdouble" value="3.8471967383411E13"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="1.9722625E8"/>
+<entry key="squareSum" type="xdouble" value="1.1538348321498E13"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_18">
+<entry key="attributeName" type="xstring" value="S Ref N"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="8.126644103E9"/>
+<entry key="squareSum" type="xdouble" value="3.813636068259551E15"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="1.74078658E9"/>
+<entry key="squareSum" type="xdouble" value="7.4035386097218E14"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="2.602801847E9"/>
+<entry key="squareSum" type="xdouble" value="1.044660056384193E15"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="2.642725269E9"/>
+<entry key="squareSum" type="xdouble" value="1.131157724521381E15"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="4.659009824E9"/>
+<entry key="squareSum" type="xdouble" value="2.052215459176122E15"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="1.520081496E9"/>
+<entry key="squareSum" type="xdouble" value="6.29444688610486E14"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_19">
+<entry key="attributeName" type="xstring" value="PC"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="6"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="do 5 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="23108"/>
+<entry key="sum" type="xdouble" value="442758.14000000287"/>
+<entry key="squareSum" type="xdouble" value="5.329378052219888E7"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="20 - 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="5414"/>
+<entry key="sum" type="xdouble" value="382725.10000000097"/>
+<entry key="squareSum" type="xdouble" value="1.496039072232004E8"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="pow 30 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8421"/>
+<entry key="sum" type="xdouble" value="374774.2299999997"/>
+<entry key="squareSum" type="xdouble" value="1.3067747131870015E8"/>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="10 - 15 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="8110"/>
+<entry key="sum" type="xdouble" value="489388.4000000019"/>
+<entry key="squareSum" type="xdouble" value="1.7254454992760018E8"/>
+</config>
+<config key="classValueData_4">
+<entry key="classValue" type="xstring" value="5 - 10 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="13866"/>
+<entry key="sum" type="xdouble" value="572091.0900000061"/>
+<entry key="squareSum" type="xdouble" value="9.803985346190019E7"/>
+</config>
+<config key="classValueData_5">
+<entry key="classValue" type="xstring" value="15 - 20 tys."/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="4749"/>
+<entry key="sum" type="xdouble" value="342887.01"/>
+<entry key="squareSum" type="xdouble" value="1.505460287943003E8"/>
 </config>
 </config>
 </config>
