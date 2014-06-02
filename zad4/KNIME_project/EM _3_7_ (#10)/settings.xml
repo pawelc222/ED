@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.ext.weka37.clusterer.WekaClustererNodeFactory"/>
+<entry key="node-name" type="xstring" value="EM (3.7)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME WEKA nodes (3.7)"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.weka_3.7"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings">
+<entry key="weka-class" type="xstring" value="weka.clusterers.EM"/>
+<entry key="weka-version" type="xstring" value="3.7"/>
+</config>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="Serialized Weka-Clusterer" type="xstring" value="rO0ABXNyABJ3ZWthLmNsdXN0ZXJlcnMuRU1z2rLUNyg5IwIAGkkACW1fY3ZGb2xkc1oAGW1fZGlzcGxheU1vZGVsSW5PbGRGb3JtYXRJABBtX2V4ZWN1dGlvblNsb3RzSQAUbV9pbml0aWFsTnVtQ2x1c3RlcnNJABVtX2l0ZXJhdGlvbnNQZXJmb3JtZWREAAttX2xvZ2xpa2VseUkAEG1fbWF4X2l0ZXJhdGlvbnNEAB9tX21pbkxvZ0xpa2VsaWhvb2RJbXByb3ZlbWVudENWRAAmbV9taW5Mb2dMaWtlbGlob29kSW1wcm92ZW1lbnRJdGVyYXRpbmdEAAttX21pblN0ZERldkkADW1fbnVtX2F0dHJpYnNJAA5tX251bV9jbHVzdGVyc0kAD21fbnVtX2luc3RhbmNlc1oACm1fdHJhaW5pbmdJABltX3VwcGVyQm91bmROdW1DbHVzdGVyc0NWWgAJbV92ZXJib3NlWwALbV9tYXhWYWx1ZXN0AAJbRFsAEW1fbWluU3RkRGV2UGVyQXR0cQB+AAFbAAttX21pblZhbHVlc3EAfgABWwAHbV9tb2RlbHQAHVtbTHdla2EvZXN0aW1hdG9ycy9Fc3RpbWF0b3I7WwANbV9tb2RlbE5vcm1hbHQABFtbW0RbAAhtX3ByaW9yc3EAfgABTAAQbV9yZXBsYWNlTWlzc2luZ3QAOkx3ZWthL2ZpbHRlcnMvdW5zdXBlcnZpc2VkL2F0dHJpYnV0ZS9SZXBsYWNlTWlzc2luZ1ZhbHVlcztMAARtX3JydAASTGphdmEvdXRpbC9SYW5kb207TAAObV90aGVJbnN0YW5jZXN0ABVMd2VrYS9jb3JlL0luc3RhbmNlcztbAAltX3dlaWdodHN0AANbW0R4cgAxd2VrYS5jbHVzdGVyZXJzLlJhbmRvbWl6YWJsZURlbnNpdHlCYXNlZENsdXN0ZXJlcrYY1tLvUyCPAgACSQAGbV9TZWVkSQANbV9TZWVkRGVmYXVsdHhyAC13ZWthLmNsdXN0ZXJlcnMuQWJzdHJhY3REZW5zaXR5QmFzZWRDbHVzdGVyZXKtasRf10OyqwIAAHhyACF3ZWthLmNsdXN0ZXJlcnMuQWJzdHJhY3RDbHVzdGVyZXKrWJRX++mmAAIAAHhwAAAAZAAAAGQAAAAKAAAAAAH/////AAAAAAAAAAAAAAAAAAAAZD6wxvegte2NPrDG96C17Y0+sMb3oLXtjQAAAAD/////AAAAAAD/////AHBwcHBwcHBwcHA="/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="EM (3.7)"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClustererModelPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClustererModelPortObject"/>
+<entry key="port_object_summary" type="xstring" value="EM"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="ae489bf9-3911-416f-9da6-9dc98cdc2f6e"/>
+</config>
+</config>

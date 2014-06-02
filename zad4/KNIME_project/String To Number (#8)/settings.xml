@@ -18,13 +18,11 @@
 </config>
 <config key="include">
 <config key="InclList">
-<entry key="array-size" type="xint" value="6"/>
+<entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xstring" value="ONS GOR Name"/>
-<entry key="1" type="xstring" value="ONS LA Name"/>
-<entry key="2" type="xstring" value="Road"/>
-<entry key="3" type="xstring" value="RCategory"/>
-<entry key="4" type="xstring" value="A-Junction"/>
-<entry key="5" type="xstring" value="B-Junction"/>
+<entry key="1" type="xstring" value="RCategory"/>
+<entry key="2" type="xstring" value="A-Junction"/>
+<entry key="3" type="xstring" value="B-Junction"/>
 </config>
 <config key="ExclList">
 <entry key="array-size" type="xint" value="1"/>
@@ -40,18 +38,25 @@
 </config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Problems occurred, see Console messages."/>
+</config>
 <entry key="name" type="xstring" value="String To Number"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 31536, Cols: 9"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="24804bd9-f165-4601-99ab-6394f702f307"/>
 </config>
 </config>

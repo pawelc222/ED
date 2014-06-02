@@ -33,7 +33,11 @@
 </config>
 <config key="filter_nominal_columns">
 <config key="InclList">
-<entry key="array-size" type="xint" value="0"/>
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="Error in %"/>
+<entry key="1" type="xstring" value="Size of Test Set"/>
+<entry key="2" type="xstring" value="Error Count"/>
+<entry key="3" type="xstring" value="Iteration"/>
 </config>
 <config key="ExclList">
 <entry key="array-size" type="xint" value="0"/>
@@ -42,7 +46,7 @@
 </config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="name" type="xstring" value="Statistics"/>
 <entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
