@@ -22,14 +22,8 @@
 <entry key="col_types" type="xint" value="0"/>
 </config>
 <config key="meta_string">
-<entry key="miss_method" type="xint" value="1"/>
+<entry key="miss_method" type="xint" value="5"/>
 <entry key="col_types" type="xint" value="2"/>
-<config key="fix_val">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="brak"/>
-</config>
-</config>
 </config>
 <config key="meta_other">
 <entry key="miss_method" type="xint" value="-1"/>
@@ -54,6 +48,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="5f754735-e889-4791-bac7-57b242cd0fbe"/>
+<entry key="file_store_id" type="xstring" value="51ab4651-07ad-4d06-b9b0-86acc6e029b2"/>
 </config>
 </config>
