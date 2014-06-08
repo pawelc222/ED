@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.base.node.mine.subgroupminer.BitVectorGeneratorNodeFactory"/>
+<entry key="node-name" type="xstring" value="Bitvector Generator"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings"/>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="FROM_STRING" type="xboolean" value="false"/>
+<entry key="useMean" type="xboolean" value="true"/>
+<entry key="stringType" type="xstring" value="BIT"/>
+<entry key="THRESHOLD" type="xdouble" value="1.0"/>
+<entry key="meanThreshold" type="xint" value="100"/>
+<entry key="replace" type="xboolean" value="false"/>
+<config key="STRING_COLUMN_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="STRING_COLUMN" type="xstring" value="Road"/>
+<config key="included.numeric.columns_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="included.numeric.columns">
+<config key="InclList">
+<entry key="array-size" type="xint" value="18"/>
+<entry key="0" type="xstring" value="Year"/>
+<entry key="1" type="xstring" value="CP"/>
+<entry key="2" type="xstring" value="S Ref E"/>
+<entry key="3" type="xstring" value="S Ref N"/>
+<entry key="4" type="xstring" value="LenNet"/>
+<entry key="5" type="xstring" value="PC"/>
+<entry key="6" type="xstring" value="2WMV"/>
+<entry key="7" type="xstring" value="Car"/>
+<entry key="8" type="xstring" value="Bus"/>
+<entry key="9" type="xstring" value="LGV"/>
+<entry key="10" type="xstring" value="HGVR2"/>
+<entry key="11" type="xstring" value="HGVR3"/>
+<entry key="12" type="xstring" value="HGVR4"/>
+<entry key="13" type="xstring" value="HGVA3"/>
+<entry key="14" type="xstring" value="HGVA5"/>
+<entry key="15" type="xstring" value="HGVA6"/>
+<entry key="16" type="xstring" value="HGV"/>
+<entry key="17" type="xstring" value="AllMV"/>
+</config>
+<config key="ExclList">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<entry key="keep_all_columns_selected" type="xboolean" value="false"/>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="Bitvector Generator"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 70742, Cols: 20"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="1a4dfd8a-89fb-488e-a68b-456c9db2cc4d"/>
+</config>
+</config>

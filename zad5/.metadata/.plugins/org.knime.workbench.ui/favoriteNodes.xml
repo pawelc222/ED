@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favoritenodes>
+<personals/>
+<frequents>
+<favorite frequency="2" nodeid="org.knime.base.node.mine.cluster.kmeans.ClusterNodeFactory"/>
+<favorite frequency="4" nodeid="org.knime.base.node.viz.statistics2.Statistics3NodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.ext.weka37.predictor.WekaPredictorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.domain.editnominal.dic.EditNominalDomainDicNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.preproc.normalize2.Normalize2NodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.clusterers.EM"/>
+<favorite frequency="2" nodeid="org.knime.base.node.preproc.domain.DomainNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.io.csvreader.CSVReaderNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.io.filereader.FileReaderNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.domain.editnominal.EditNominalDomainNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.ext.weka37.clusterassign.ClusterAssignerNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.associations.Apriori"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory"/>
+<favorite frequency="2" nodeid="org.knime.base.node.preproc.missingval.MissingValueHandling3NodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
+<favorite frequency="3" nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.classifiers.trees.J48"/>
+<favorite frequency="1" nodeid="org.knime.base.node.mine.subgroupminer.BitVectorGeneratorNodeFactory"/>
+<favorite frequency="1" nodeid="org.knime.base.node.preproc.colconvert.stringtonumber.StringToNumberNodeFactory"/>
+</frequents>
+<lastused>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.associations.Apriori"/>
+<favorite nodeid="org.knime.base.node.preproc.normalize2.Normalize2NodeFactory"/>
+<favorite nodeid="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<favorite nodeid="org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2"/>
+<favorite nodeid="org.knime.base.node.mine.subgroupminer.BitVectorGeneratorNodeFactory"/>
+<favorite nodeid="org.knime.base.node.preproc.colconvert.stringtonumber.StringToNumberNodeFactory"/>
+<favorite nodeid="org.knime.ext.weka37.knimenodes.WekaNodeSetFactory_weka.clusterers.EM"/>
+<favorite nodeid="org.knime.ext.weka37.clusterassign.ClusterAssignerNodeFactory"/>
+<favorite nodeid="org.knime.base.node.preproc.equalsizesampling.EqualSizeSamplingNodeFactory"/>
+<favorite nodeid="org.knime.base.node.preproc.missingval.MissingValueHandling3NodeFactory"/>
+</lastused>
+</favoritenodes>

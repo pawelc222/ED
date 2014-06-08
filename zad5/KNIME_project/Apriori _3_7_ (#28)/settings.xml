@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.ext.weka37.associator.WekaAssociatorNodeFactory"/>
+<entry key="node-name" type="xstring" value="Apriori (3.7)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME WEKA nodes (3.7)"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.weka_3.7"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings">
+<entry key="weka-class" type="xstring" value="weka.associations.Apriori"/>
+<entry key="weka-version" type="xstring" value="3.7"/>
+</config>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="ClassColumn" type="xstring" value="AllMV_binned"/>
+<entry key="Serialized Weka-Associator" type="xstring" value="rO0ABXNyABl3ZWthLmFzc29jaWF0aW9ucy5BcHJpb3JpLXwD1Qgw0I8CABVaAAVtX2NhckkADG1fY2xhc3NJbmRleEkACG1fY3ljbGVzRAAHbV9kZWx0YUQAFm1fbG93ZXJCb3VuZE1pblN1cHBvcnRJAAxtX21ldHJpY1R5cGVEAAttX21pbk1ldHJpY0QADG1fbWluU3VwcG9ydEkACm1fbnVtUnVsZXNaABBtX291dHB1dEl0ZW1TZXRzWgATbV9yZW1vdmVNaXNzaW5nQ29sc0QAE21fc2lnbmlmaWNhbmNlTGV2ZWxaABRtX3RyZWF0WmVyb0FzTWlzc2luZ0QAFm1fdXBwZXJCb3VuZE1pblN1cHBvcnRaAAltX3ZlcmJvc2VMAARtX0xzdAAWTHdla2EvY29yZS9GYXN0VmVjdG9yO1sADW1fYWxsVGhlUnVsZXN0ABdbTHdla2EvY29yZS9GYXN0VmVjdG9yO0wADG1faGFzaHRhYmxlc3EAfgABTAALbV9pbnN0YW5jZXN0ABVMd2VrYS9jb3JlL0luc3RhbmNlcztMAAttX29ubHlDbGFzc3EAfgADTAAUbV90b1N0cmluZ0RlbGltaXRlcnN0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAkd2VrYS5hc3NvY2lhdGlvbnMuQWJzdHJhY3RBc3NvY2lhdG9y1h8sRqVLVroCAAB4cAD/////AAAAAD+pmZmZmZmaP7mZmZmZmZoAAAAAP7mZmZmZmZoAAAAAAAAAAAAAAGQAAL/wAAAAAAAAAD/wAAAAAAAAAHBwcHBwcA=="/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="Apriori (3.7)"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports"/>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="d63aabca-7768-4838-882c-4005f41684f0"/>
+</config>
+</config>
